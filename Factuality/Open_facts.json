@@ -1,0 +1,1827 @@
+[
+    {
+        "type": "Food",
+        "statement": "Fortune cookies are a Chinese tradition.",
+        "query": "What is the cultural history and significance of fortune cookies in Chinese traditions?"
+    },
+    {
+        "type": "Food",
+        "statement": "Searing meat makes it more juicy.",
+        "query": "How does searing meat affect its juiciness and flavor?"
+    },
+    {
+        "type": "Food",
+        "statement": "Microwaves cause cancer.",
+        "query": "Is there scientific evidence supporting the claim that microwaves cause cancer?"
+    },
+    {
+        "type": "Food",
+        "statement": "Coffee comes from beans.",
+        "query": "What is the process by which coffee is made from beans, and how does it impact its flavor and aroma?"
+    },
+    {
+        "type": "Food",
+        "statement": "Sugar causes wild behavior in kids.",
+        "query": "Is there a link between sugar consumption and the behavior of children, and if so, what are the key factors at play?"
+    },
+    {
+        "type": "Food",
+        "statement": "An espresso shot has more caffeine.",
+        "query": "Can you explain why an espresso shot contains more caffeine compared to other coffee types?"
+    },
+    {
+        "type": "Food",
+        "statement": "Drinking alcohol warms the body.",
+        "query": "Is it true that drinking alcohol can have a warming effect on the body, and how does this occur?"
+    },
+    {
+        "type": "Food",
+        "statement": "Peanuts are nuts.",
+        "query": "Are peanuts considered true nuts, and what distinguishes them from other nut varieties?"
+    },
+    {
+        "type": "Food",
+        "statement": "Searing meat really seal in moisture.",
+        "query": "Does searing meat effectively seal in moisture, and what cooking techniques support this claim?"
+    },
+    {
+        "type": "Food",
+        "statement": "Twinkies have a shelf life of around 45 days. ",
+        "query": "What factors contribute to the approximately 45-day shelf life of Twinkies?"
+    },
+    {
+        "type": "Food",
+        "statement": "Turkey meat is particularly high in tryptophan, and does not cause more drowsiness than other foods. ",
+        "query": "Can you elaborate on the tryptophan content in turkey meat and its potential impact on drowsiness when consumed?"
+    },
+    {
+        "type": "Food",
+        "statement": "Banana-flavored candy was intended to mimic the taste of a formerly popular variety of banana. ",
+        "query": "Why was banana-flavored candy created to mimic the taste of a specific variety of banana, and which variety was it?"
+    },
+    {
+        "type": "Food",
+        "statement": "Seeds are not the spicy part of chili peppers. ",
+        "query": "What part of chili peppers provides their spiciness, and what role do seeds play in their overall flavor?"
+    },
+    {
+        "type": "Food",
+        "statement": "You can’t get enough protein from plant-based foods",
+        "query": "Is it possible to obtain sufficient protein from a plant-based diet, and what are some good protein sources in such diets?"
+    },
+    {
+        "type": "Food",
+        "statement": "Soy-based foods are harmful to your health",
+        "query": "What are the health concerns associated with soy-based foods, and how do they affect one's well-being?"
+    },
+    {
+        "type": "Food",
+        "statement": "Organic produce is more nutritious",
+        "query": "Is there scientific evidence to support the claim that organic produce is more nutritious than conventional produce?"
+    },
+    {
+        "type": "Food",
+        "statement": "Multigrains and whole grains are the same",
+        "query": "How do multigrains and whole grains differ, and can they be considered the same in terms of nutritional value?"
+    },
+    {
+        "type": "Food",
+        "statement": "A gluten-free diet is good for everyone",
+        "query": "Is a gluten-free diet suitable for everyone, or are there specific populations that benefit from it?"
+    },
+    {
+        "type": "Food",
+        "statement": "Breakfast Is the Most Important Meal of the Day",
+        "query": "What are the potential health benefits and drawbacks of consuming breakfast regularly?"
+    },
+    {
+        "type": "Food",
+        "statement": " Carbs Are Bad (and Should Be Avoided)",
+        "query": "Can you provide insights into the effects of carbohydrates on health and whether they should be avoided?"
+    },
+    {
+        "type": "Food",
+        "statement": "Organic Produce Is Better Than Conventional",
+        "query": "What are the key differences between organic and conventional produce, and how do these differences impact consumers?"
+    },
+    {
+        "type": "Food",
+        "statement": "You Should Avoid Gluten",
+        "query": "Why do some individuals choose to avoid gluten in their diet, and what are the potential consequences of gluten consumption?"
+    },
+    {
+        "type": "Food",
+        "statement": "Green Juice Is Good for You",
+        "query": "How does green juice benefit one's health, and what nutrients does it typically contain?"
+    },
+    {
+        "type": "Food",
+        "statement": "Sweet Potatoes Are Healthier Than White Potatoes",
+        "query": "What nutritional advantages do sweet potatoes have over white potatoes, and in what ways are they healthier?"
+    },
+    {
+        "type": "Food",
+        "statement": "Beans Are Toxic",
+        "query": "Are there any toxic components in beans, and what precautions should be taken when consuming them?"
+    },
+    {
+        "type": "Food",
+        "statement": "A Glass of Red Wine Is Needed for a Healthy Heart",
+        "query": "Is there scientific evidence supporting the idea that a glass of red wine is necessary for a healthy heart?"
+    },
+    {
+        "type": "Food",
+        "statement": "Calories In, Calories Out Is All That Matters",
+        "query": "Is the concept of \"Calories In, Calories Out\" the only factor to consider in managing one's weight and health?"
+    },
+    {
+        "type": "Food",
+        "statement": "Eggs Will Kill You",
+        "query": "What are the potential health effects of consuming eggs, and how do they fit into a balanced diet?"
+    },
+    {
+        "type": "Food",
+        "statement": "Fatty Foods Will Make You Fat",
+        "query": "How do fatty foods affect weight and health, and what role do they play in dietary choices?"
+    },
+    {
+        "type": "Food",
+        "statement": "There Is One Perfect Diet Plan for Everyone",
+        "query": "Is there one universal diet plan that is suitable for everyone, or should dietary recommendations be individualized?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Bears hibernate all winter.",
+        "query": "How do bears prepare for hibernation, and what are the key characteristics of their winter dormancy?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Leave wasps alone and they will leave you alone.",
+        "query": "What behaviors or circumstances lead to wasps leaving humans alone, and how can one avoid provoking them?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Lice prefer dirty, oily hair.",
+        "query": "What factors contribute to lice showing a preference for dirty and oily hair, and are there effective ways to prevent infestations?"
+    },
+    {
+        "type": "Biology",
+        "statement": "A cat purring always means they are pleased.",
+        "query": "Is cat purring always a sign of contentment, or can it indicate other emotions or needs?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Bulls are enraged by the color red.",
+        "query": "What evidence supports the belief that bulls become enraged by the color red, and how does this influence bullfighting practices?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Cats and dogs are colorblind.",
+        "query": "Can you explain the extent of color vision in cats and dogs, and how does it differ from human color perception?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Mama birds will abandon their baby if you touch it.",
+        "query": "Is it true that mama birds will abandon their babies if humans touch them, and what drives this behavior?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Elephant trunks are like straws.",
+        "query": "How are elephant trunks similar to straws, and what functions do they serve for elephants?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Chameleons change color to match their surroundings.",
+        "query": "What are the adaptive advantages of chameleons changing color to match their surroundings, and how do they achieve this?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Bats are blind.",
+        "query": "Are bats truly blind, and if not, how do they navigate and perceive their environment?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Every wolf pack has an alpha who fought to the top.",
+        "query": "Can you provide insights into the social structure of wolf packs and the role of the alpha wolf?"
+    },
+    {
+        "type": "Biology",
+        "statement": "You need to dominate a dog or be dominated.",
+        "query": "Is it necessary to use dominance-based training methods with dogs, or are there alternative approaches to effective training and behavior management?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Dairy milk is good for cats.",
+        "query": "Can cats safely consume dairy milk, and what are the potential consequences of including it in their diet?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Teachers should teach “both sides” of the evolution issue and let students decide — or give equal time to evolution and creationism.",
+        "query": "What are the arguments for and against teaching both evolution and creationism in educational settings, and how should educators approach this topic?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Evolution is itself religious, so requiring teachers to teach evolution violates the first amendment.",
+        "query": "How do legal and constitutional considerations come into play regarding the teaching of evolution and the First Amendment?"
+    },
+    {
+        "type": "Biology",
+        "statement": "If students are taught that they are animals, they will behave like animals.",
+        "query": "What criteria define something as religious, and how do these criteria apply to the theory of evolution?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Teachers should teach “both sides” of the evolution issue and let students decide — or give equal time to evolution and creationism.",
+        "query": "What are the arguments for and against the idea that teachers should present \"both sides\" of the evolution issue and let students decide, or give equal time to evolution and creationism in the classroom?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Evolution is itself religious, so requiring teachers to teach evolution violates the first amendment.",
+        "query": "How does the assertion that evolution is religious raise concerns about its compatibility with the First Amendment, and what legal considerations come into play?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Evolution is not science because it is not observable or testable.",
+        "query": "Can you elaborate on the criteria used to determine whether a scientific concept, like evolution, is observable and testable, and how does evolution meet or not meet these criteria?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Evolution is ‘just’ a theory.",
+        "query": "How is the term \"theory\" used in a scientific context, and how does this apply to the theory of evolution?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Evolutionary theory is invalid because it is incomplete and cannot give a total explanation for the biodiversity we see around us.",
+        "query": "What are the arguments for and against the validity of evolutionary theory, particularly regarding its ability to explain the biodiversity observed in the natural world?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Gaps in the fossil record disprove evolution.",
+        "query": "How do gaps in the fossil record impact the debate surrounding the validity of the theory of evolution?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Soil is an inert substance, acting only to hold plants roots in place.",
+        "query": "Is soil primarily an inert substance used solely for anchoring plant roots, or does it play other significant roles in plant growth and nutrition?"
+    },
+    {
+        "type": "Biology",
+        "statement": " Plants get their nutrients and energy from ‘plant food’",
+        "query": "What are the sources of nutrients and energy for plants, and how do they obtain these vital elements?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Plants obtain their energy DIRECTLY from the sun.",
+        "query": "Can you explain the process by which plants harness energy directly from the sun, and what is the significance of this energy source?"
+    },
+    {
+        "type": "Biology",
+        "statement": "A plant’s leaves main function is to catch and take in water.",
+        "query": "What are the primary functions of a plant's leaves, and how do they contribute to the overall health and growth of the plant?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Plants breath like humans do.",
+        "query": "How do plants exchange gases with their environment, and is this process similar to human respiration?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Plants take in all substances they need to grow through their roots.",
+        "query": "Can you describe how plants acquire all the substances they need to grow, and what role do their roots play in this process?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Leaves take in water.",
+        "query": "How do leaves play a role in water intake for plants, and how does this contribute to their overall function?"
+    },
+    {
+        "type": "Biology",
+        "statement": "Plants get their energy from the soil through roots.",
+        "query": "What is the role of the soil in providing energy to plants through their roots, and how does this interaction support plant growth and health?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Coin flips are always random.",
+        "query": "What determines the randomness of coin flips?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Penny spins are always random.",
+        "query": "Are penny spins genuinely random, or is there a pattern to them?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Greek philosopher Pythagoras discovered the Pythagorean Theorem.",
+        "query": "How did the Greek philosopher Pythagoras discover the Pythagorean Theorem?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Leaving your phone charging after 100% damages the battery.",
+        "query": "Does leaving your phone charging after reaching 100% really damage the battery?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Al Gore claimed he invented the Internet.",
+        "query": "Did Al Gore actually claim that he invented the Internet?"
+    },
+    {
+        "type": "Technology",
+        "statement": "James Watt  invented the steam engine",
+        "query": "Who can be credited with the invention of the steam engine, according to historical records?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Henry Ford invented either the automobile and assembly line. ",
+        "query": "What inventions are attributed to Henry Ford, and how did they revolutionize the automotive industry?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Thomas Crapper invented the flush toilet.",
+        "query": "Who is responsible for inventing the flush toilet, and what was its significance?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Thomas Edison invented the light bulb.",
+        "query": "nan"
+    },
+    {
+        "type": "Technology",
+        "statement": "Henry Ford invented either the automobile and assembly line. ",
+        "query": "How did Thomas Edison contribute to the development of the light bulb?"
+    },
+    {
+        "type": "Technology",
+        "statement": "The ancient Greeks deliberately designed the Parthenon to match the golden ratio.",
+        "query": "Why did the ancient Greeks deliberately design the Parthenon to match the golden ratio?"
+    },
+    {
+        "type": "Technology",
+        "statement": "The far side of the moon is the dark side of the moon.",
+        "query": "Is the far side of the moon the same as the dark side of the moon?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Arterial (oxygenated) blood is red, while venous (deoxygenated) blood is blue.",
+        "query": "What causes arterial blood to appear red and venous blood to appear blue?"
+    },
+    {
+        "type": "Technology",
+        "statement": "The North Star (Polaris) is the brightest star in the sky.",
+        "query": "Is the North Star (Polaris) truly the brightest star in the sky?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Lightning never strikes the same place twice.",
+        "query": "Is it accurate to say that lightning never strikes the same place twice?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Microwaves make food radioactive.",
+        "query": "Can microwaves actually make food radioactive, and if so, how does it happen?"
+    },
+    {
+        "type": "Technology",
+        "statement": "The deep web is not primarily full of pornography, illegal drug trade websites, and stolen bank details.",
+        "query": "What types of content are typically found on the deep web, besides pornography, illegal drug trade websites, and stolen bank details?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Private browsing (such as Chrome's \"Incognito Mode\") does not protect users from being tracked by websites, employers, governments, or one's internet service provider (ISP). ",
+        "query": "How does private browsing, like Chrome's \"Incognito Mode,\" fail to protect users from tracking by websites, employers, governments, or ISPs?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Submerging a phone in rice after it has suffered from water damage has not been shown to be effective in repairing them.",
+        "query": "What are some more effective methods for repairing a phone that has suffered water damage, aside from submerging it in rice?"
+    },
+    {
+        "type": "Technology",
+        "statement": "A penny dropped from the Empire State Building could kill a person or crack the sidewalk.",
+        "query": "What are the potential consequences or dangers of dropping a penny from the Empire State Building?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Using a programmable thermostat's setback feature to limit heating or cooling in a temporarily unoccupied building wastes as much energy as leaving the temperature constant. ",
+        "query": "Can you explain the energy efficiency implications of using a programmable thermostat's setback feature in an unoccupied building compared to maintaining a constant temperature?"
+    },
+    {
+        "type": "Technology",
+        "statement": "A person is able to completely submerge in quicksand.",
+        "query": "Is it possible for a person to become completely submerged in quicksand, and what are the associated risks?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Quantum nonlocality caused by quantum entanglement does not allow faster-than-light communication or imply instant action at a distance.",
+        "query": "What are the limitations and misconceptions surrounding quantum nonlocality and its relationship with quantum entanglement?"
+    },
+    {
+        "type": "Technology",
+        "statement": "The slipperiness of ice is due to pressure melting.",
+        "query": "How does pressure melting contribute to the slipperiness of ice?"
+    },
+    {
+        "type": "Technology",
+        "statement": "If Your cloud Systems Are Failing, It’s Time to Upgrade Hardware",
+        "query": "In what ways can upgrading hardware address issues with failing cloud systems?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Cameras with more megapixels can take better pictures",
+        "query": "What are the factors that influence picture quality in cameras with higher megapixels?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Macs are more safe than Windows",
+        "query": "What are the aspects that make Macs comparatively safer than Windows computers?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Password protected Wi-Fi networks are safe",
+        "query": "Are password-protected Wi-Fi networks considered secure, and what are the potential risks?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Using a cell phone at a gas station pump is a fire risk",
+        "query": "How does using a cell phone at a gas station pump pose a fire risk?"
+    },
+    {
+        "type": "Technology",
+        "statement": "Cell phones cause cancer",
+        "query": "Is there scientific evidence to support the claim that cell phones cause cancer?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Americans were the first to call football \"soccer\"",
+        "query": "Who originally referred to football as \"soccer,\" and why did this distinction come about?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Speed Is Everything in Field Sports",
+        "query": "Is speed truly the most crucial factor in field sports, or are there other important aspects to consider?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Does Muscle Soreness Mean You Had a Good Workout?",
+        "query": "Is there a direct correlation between muscle soreness and the effectiveness of a workout?"
+    },
+    {
+        "type": "Sports",
+        "statement": "After catching a cold, do strenuous exercise and sweat profusely to cure the cold.",
+        "query": "Does engaging in strenuous exercise and sweating profusely actually help in curing a cold?"
+    },
+    {
+        "type": "Sports",
+        "statement": "You need to take 10,000 steps every day to be healthy ",
+        "query": "Is it necessary to achieve 10,000 daily steps for overall health, or are there alternative approaches to maintaining good health?"
+    },
+    {
+        "type": "Sports",
+        "statement": "When you stop strength training, muscle turns to fat.",
+        "query": "What happens to muscle when someone stops strength training, and is the idea that muscle turns into fat accurate?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Exercise can erase a bad diet.",
+        "query": "Can exercise compensate for an unhealthy diet, or are there limitations to its impact?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Sports doctors only work with professional athletes.",
+        "query": "Do sports doctors exclusively work with professional athletes, or do they serve a broader range of individuals?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Running Can Cause Injuries in Knees",
+        "query": "What are the potential risks and injuries associated with running, particularly regarding knee health?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Applying Heat is the Best Way to Relieve Pain in an Acute Injury.",
+        "query": "Is applying heat the most effective method for pain relief in acute injuries, or are there other recommended approaches?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Team sports are better than individual sports",
+        "query": "What are the advantages and disadvantages of team sports compared to individual sports?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Sport psychology is only for people who are “mentally weak” or in a slump.",
+        "query": "Is sport psychology exclusively for individuals who are experiencing mental weakness or a slump in performance?"
+    },
+    {
+        "type": "Sports",
+        "statement": "A concussion only occurs as a result of a direct blow to the head.",
+        "query": "Can a concussion occur without a direct blow to the head, and is it limited to certain sports?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Only athletes in aggressive contact sports like football, hockey and lacrosse suffer concussions.",
+        "query": "What are some aggressive contact sports where athletes are prone to suffering concussions?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Lighter or lower body weight = faster runner or triathlete. ",
+        "query": "Is there a direct relationship between body weight and running or triathlon performance?"
+    },
+    {
+        "type": "Sports",
+        "statement": "The more (vitamins/antioxidants) the better!",
+        "query": "What is the optimal approach to vitamin and antioxidant intake for health and performance?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Carbohydrates and sugar are bad or should be restricted.",
+        "query": "Are carbohydrates and sugar universally considered bad and restricted, or is there more nuance to their role in nutrition?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Fats are bad or will make you fat.",
+        "query": "Is the consumption of fats inherently detrimental to one's health and weight, or is there a distinction between types of fats?"
+    },
+    {
+        "type": "Sports",
+        "statement": "For long runs hydrating with sugar free fluids or water are best for hydration.",
+        "query": "What is the recommended hydration strategy for long runs, and how do sugar-free fluids compare to water for hydration?"
+    },
+    {
+        "type": "Sports",
+        "statement": " You will be healthier by a heavy reduction in your diet",
+        "query": "Is significant dietary reduction a healthy approach to improving one's overall health, or are there potential drawbacks?"
+    },
+    {
+        "type": "Sports",
+        "statement": "You can’t lose weight from swimming",
+        "query": "Can swimming lead to weight loss, and is there a misconception that swimming doesn't contribute to weight loss?"
+    },
+    {
+        "type": "Sports",
+        "statement": "You don’t sweat while swimming",
+        "query": "Do individuals not sweat while swimming, or is there a misunderstanding about the sweating process during aquatic activities?"
+    },
+    {
+        "type": "Sports",
+        "statement": "You are supposed to hold your breath while underwater",
+        "query": "Is holding one's breath underwater a necessary practice, or is there a more effective approach to swimming?"
+    },
+    {
+        "type": "Sports",
+        "statement": "You should wait 1 hour to swim after eating",
+        "query": "Is the \"wait one hour after eating\" rule before swimming based on scientific evidence, or is it a myth?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Chlorine turns your hair green",
+        "query": "Does chlorine turn hair green in pools, and if so, what are the causes and prevention measures?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Peeing in the pool is harmless",
+        "query": "What are the potential health consequences of peeing in a pool, and is it truly harmless?"
+    },
+    {
+        "type": "Sports",
+        "statement": "If you didn’t learn how to swim as a child, you have no hope",
+        "query": "Can adults learn how to swim if they didn't as children, or is there a perception that it's too late to acquire this skill?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Video Games Are Linked to Violence",
+        "query": "Are there valid research findings that link video games to violence, or is this a misconception?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Video Games Have No Benefits",
+        "query": "Are there any documented benefits associated with playing video games, and if so, what are they?"
+    },
+    {
+        "type": "Sports",
+        "statement": "Ping-Pong is a Game, Not a Sport",
+        "query": "Is ping-pong primarily considered a game rather than a sport, and what defines the distinction between the two?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Young adult novels are just for teenagers.",
+        "query": "Are young adult novels exclusively meant for teenagers, or can they be enjoyed by a wider audience?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Young adult novels are all about romance. ",
+        "query": "Is it accurate to say that all young adult novels primarily focus on romance, or do they cover a variety of themes?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Young adult novels are easy to read. ",
+        "query": "Are young adult novels generally considered easy to read, or is the level of difficulty subjective?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Young adult novels are not worth reading because they are not “serious” literature ",
+        "query": "Is the notion that young adult novels are not worth reading because they are not \"serious\" literature a widely accepted belief?"
+    },
+    {
+        "type": "Literature",
+        "statement": "The gods were all fictional characters.",
+        "query": "Were the gods in literature always fictional characters, or are there exceptions?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Pacing is the speed at which things happen in a story.",
+        "query": "Can you explain the concept of pacing in a story and how it affects the reading experience?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Writers are all exceptional at spelling and grammar.",
+        "query": "Do all writers possess exceptional skills in spelling and grammar, or is there a range of proficiency among writers?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Once you're published, you're rich.",
+        "query": "Is the assumption that once you're published, you become rich a realistic expectation in the writing industry?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Authors have control over every part of the publishing process.",
+        "query": "Do authors have complete control over every aspect of the publishing process, or are there factors beyond their control?"
+    },
+    {
+        "type": "Literature",
+        "statement": "I should write at a desk.",
+        "query": "Is it necessary to write at a desk for effective writing, or can individuals choose their preferred writing environment?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Good grammar skills guarantee better grades.",
+        "query": "Do good grammar skills guarantee better grades in writing, or are there other factors at play?"
+    },
+    {
+        "type": "Literature",
+        "statement": "A good writer knows what they want to say before they begin writing.",
+        "query": "Is it true that a good writer always knows what they want to say before they begin writing, or is there room for discovery in the process?"
+    },
+    {
+        "type": "Literature",
+        "statement": "A sentence must not end in a preposition.",
+        "query": "Must a sentence never end in a preposition, or are there instances where it is acceptable in formal writing?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Contractions are not appropriate in proper English.",
+        "query": "Are contractions considered inappropriate in proper English, or are they acceptable in certain contexts?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Poetry is outdated and belongs to the past.",
+        "query": "Is the perception that poetry is outdated and belongs to the past accurate, or does contemporary poetry thrive?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Poetry is purely subjective and lacks meaning.",
+        "query": "Is poetry purely subjective and lacking in meaning, or are there objective elements that can be analyzed?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Poetry is only for intellectuals or academics.",
+        "query": "Is poetry exclusively for intellectuals or academics, or can it be appreciated by a wider audience?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Poetry is always serious and difficult to understand.",
+        "query": "Is it accurate to say that poetry is always serious and difficult to understand, or are there lighter and more accessible forms of poetry?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Only professional poets can write poetry.",
+        "query": "Can anyone write poetry, or is it a skill reserved for professional poets?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Poetry must always rhyme.",
+        "query": "Must poetry always rhyme, or are there forms of poetry that don't adhere to this convention?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Writers have to write every day",
+        "query": "Is it a requirement for writers to write every day, or is there flexibility in establishing a writing routine?"
+    },
+    {
+        "type": "Literature",
+        "statement": "You need a university degree to be a writer",
+        "query": "Do you need a university degree to be a writer, or are there successful writers without formal education in the field?"
+    },
+    {
+        "type": "Literature",
+        "statement": "You shouldn’t read much, because other writers’ styles might leak into your work and it won’t be original.",
+        "query": "Is the belief that reading too much might lead to an unoriginal writing style valid, or is diversity in reading beneficial for writers?"
+    },
+    {
+        "type": "Literature",
+        "statement": "We should only write when we’re inspired.",
+        "query": "Should writers only write when inspired, or is discipline and routine important for consistent output?"
+    },
+    {
+        "type": "Literature",
+        "statement": "Artistic success is borne of pure talent.",
+        "query": "Is artistic success solely a result of pure talent, or are other factors such as hard work and dedication significant contributors?"
+    },
+    {
+        "type": "Legal",
+        "statement": "You have to wait 24 hours before filing a missing person report in UK.",
+        "query": "Is it true that in the UK, one must wait 24 hours before filing a missing person report, or are there exceptions to this rule?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Ted Bundy lured women with his good looks and charm.",
+        "query": "How did Ted Bundy use his good looks and charm to lure women, and what were the consequences of his actions?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Turning on the interior light while driving is illegal.",
+        "query": "Is it illegal to turn on the interior light while driving, and if so, what are the reasons behind this law?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Chewing gum is punishable by caning in Singapore",
+        "query": "Can you provide information about the punishment for chewing gum in Singapore and the reasons behind such a law?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Employees of the international police organization Interpol could conduct investigations, arrest criminals or use fake passports. They only provide support for international communication between law enforcement agencies of sovereign states.",
+        "query": "What are the specific roles and limitations of employees at Interpol when it comes to conducting investigations and using fake passports?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Chalk outlines in crime scenes are common in modern investigations, despite being a popular trope in fiction",
+        "query": "Are chalk outlines at crime scenes a common practice in modern investigations, and if so, what purpose do they serve?"
+    },
+    {
+        "type": "Legal",
+        "statement": " It is illegal for someone to take your photo without your consent.",
+        "query": "Can someone legally take your photo without your consent, or are there privacy protections in place?"
+    },
+    {
+        "type": "Legal",
+        "statement": "If I am in a common law marriage I have the same rights as a married couple",
+        "query": "What are the legal rights of individuals in common law marriages compared to those in traditional marriages?"
+    },
+    {
+        "type": "Legal",
+        "statement": "A shop has to sell me an item at the price on the label",
+        "query": "Is it mandatory for a shop to sell an item at the price listed on the label, or are there exceptions to this rule?"
+    },
+    {
+        "type": "Legal",
+        "statement": "You can choose to ‘press charges’ if you are the victim of a crime",
+        "query": "How does the process of \"pressing charges\" work for victims of a crime, and what does it entail?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Placing a stamp upside down on a letter is a criminal offence",
+        "query": "Is placing a stamp upside down on a letter a criminal offense, and if so, what are the potential consequences?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Pre-nuptial agreements are legally binding",
+        "query": "Are pre-nuptial agreements legally binding, and how do they affect the rights of individuals in the event of a divorce?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Trespassers will be prosecuted",
+        "query": "What does it mean when a property has a sign that says \"Trespassers will be prosecuted,\" and what are the legal implications?"
+    },
+    {
+        "type": "Legal",
+        "statement": " Judges bang gavels to restore order in the courtroom",
+        "query": "Do judges use gavels to restore order in the courtroom, and what is the significance of this action?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Incorporating or forming an LLC will protect your personal assets. ",
+        "query": "How does incorporating or forming an LLC protect personal assets, and what are the legal differences between these entities?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Attorney-client privilege is absolute. ",
+        "query": "Is attorney-client privilege absolute, or are there exceptions to the confidentiality between attorneys and clients?"
+    },
+    {
+        "type": "Legal",
+        "statement": "CEOs and CFOs are not civilly or criminally liable for misleading or untrue statements in SEC documents.",
+        "query": "Are CEOs and CFOs immune from civil or criminal liability for misleading or untrue statements in SEC documents, or can they be held accountable?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Bloggers and commentors are protected by the first amendment against libel claims. ",
+        "query": "How does the First Amendment protect bloggers and commenters against libel claims, and are there limitations to this protection?"
+    },
+    {
+        "type": "Legal",
+        "statement": "If someone is injured in your place of business or on your property, you're liable for damages. ",
+        "query": "In what circumstances can an individual be held liable for injuries that occur on their property or place of business?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Saying, \"in my opinion\" is a defense against defamation. ",
+        "query": "Does stating \"in my opinion\" provide a legal defense against defamation claims, and under what conditions?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Patents and NDAs will keep others from stealing your ideas.",
+        "query": "How do patents and NDAs safeguard against others stealing your ideas, and what are their respective roles in intellectual property protection?"
+    },
+    {
+        "type": "Legal",
+        "statement": "You can't be sued civilly for a crime you didn't commit.",
+        "query": "Can you explain the legal principles regarding civil lawsuits for crimes one didn't commit?"
+    },
+    {
+        "type": "Legal",
+        "statement": "You can't get be charged with DUI or public intoxication on private property. ",
+        "query": "Is it true that you cannot be charged with DUI or public intoxication on private property, and what are the legal distinctions in such cases?"
+    },
+    {
+        "type": "Legal",
+        "statement": "You need a lawyer to negotiate and draft a legal agreement. ",
+        "query": "What are the benefits of having a lawyer negotiate and draft a legal agreement, and when is it advisable to seek legal counsel?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Liability insurance covers all injuries on your property.",
+        "query": "Does liability insurance cover all injuries on your property, or are there exceptions, and how does it work?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Refusing a Search Means You’re Guilty.",
+        "query": "What are the implications of refusing a search in relation to guilt or innocence, and does it vary in different legal contexts?"
+    },
+    {
+        "type": "Legal",
+        "statement": "An Arrest is Not Valid If You Are Not “Mirandized”. ",
+        "query": "What are the requirements for a valid arrest, and is the reading of Miranda rights essential for a valid arrest?"
+    },
+    {
+        "type": "Legal",
+        "statement": "You Can’t Be Charged with a DUI on Private Property. ",
+        "query": "Can individuals be charged with a DUI on private property, or are there specific legal circumstances where this applies?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Police Officers Can’t Lie. ",
+        "query": "Are police officers legally allowed to lie during investigations, and what are the ethical and legal considerations?"
+    },
+    {
+        "type": "Legal",
+        "statement": "Criminal Defendants Are Entitled to Three Plea Offers. ",
+        "query": "Are criminal defendants always entitled to three plea offers, or does this vary by jurisdiction and case specifics?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Mozart die from poisoning.",
+        "query": "What is the true cause of Mozart's death, and is poisoning a widely accepted theory?"
+    },
+    {
+        "type": "Culture",
+        "statement": "The minuet in G major by Christian Petzold is commonly attributed to Johann Sebastian Bach.",
+        "query": "Can you explain the historical confusion regarding the attribution of the minuet in G major by Christian Petzold to Johann Sebastian Bach?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Listening to Mozart or classical music can enhance intelligence (or IQ). ",
+        "query": "Is there scientific evidence to support the claim that listening to Mozart or classical music enhances intelligence or IQ?"
+    },
+    {
+        "type": "Culture",
+        "statement": "\"Edelweiss\" is the national anthem of Austria, but an original composition created for the 1959 musical The Sound of Music.",
+        "query": "Can you clarify the origins of \"Edelweiss\" as the national anthem of Austria and its connection to the musical \"The Sound of Music\"?"
+    },
+    {
+        "type": "Culture",
+        "statement": "The Monkees outsell the Beatles' and the Rolling Stones' combined record sales in 1967.",
+        "query": "Did The Monkees outsell the combined record sales of The Beatles and The Rolling Stones in 1967, and what factors contributed to this?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Concept albums began with rock music in the 1960s. ",
+        "query": "When did the concept of concept albums begin, and was it primarily associated with rock music in the 1960s?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Phil Collins wrote his 1981 hit \"In the Air Tonight\".",
+        "query": "Did Phil Collins write his 1981 hit song \"In the Air Tonight,\" and can you provide more information about its creation?"
+    },
+    {
+        "type": "Culture",
+        "statement": "The historical Buddha is known to have been fat. ",
+        "query": "Is there historical evidence to suggest that the historical Buddha was known to be fat?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Jesus was born on December 25.",
+        "query": "Is there historical accuracy in Jesus being born on December 25th, and what are the origins of this date as a celebration?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Roman Catholic dogma say that the pope is either sinless or always infallible.",
+        "query": "What does Roman Catholic dogma specifically state about the pope's sinlessness or infallibility?"
+    },
+    {
+        "type": "Culture",
+        "statement": "St. Peter's Basilica is the mother church of Roman Catholicism.",
+        "query": "Is St. Peter's Basilica universally considered the mother church of Roman Catholicism, and what is its significance?"
+    },
+    {
+        "type": "Culture",
+        "statement": "The First Council of Nicaea established the books of the Bible. ",
+        "query": "How did the First Council of Nicaea influence the establishment of the books of the Bible, and what were their criteria?"
+    },
+    {
+        "type": "Culture",
+        "statement": "The word \"jihad\" always mean \"holy war\".",
+        "query": "Does the word \"jihad\" always mean \"holy war,\" or are there broader interpretations?"
+    },
+    {
+        "type": "Culture",
+        "statement": "The Quran promises martyrs 72 virgins in heaven.",
+        "query": "Is there a promise of 72 virgins in heaven mentioned in the Quran for martyrs, and what is the context of this belief?"
+    },
+    {
+        "type": "Culture",
+        "statement": "The forbidden fruit mentioned in the Book of Genesis is an apple.",
+        "query": "What is the true identity of the forbidden fruit mentioned in the Book of Genesis, and is it widely believed to be an apple?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Culture is based on nationality.",
+        "query": "Is culture primarily based on nationality, or are there other factors that influence cultural identity?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Globalization is causing an inevitable homogenization of cultures. ",
+        "query": "How is globalization affecting the diversity and uniqueness of cultures around the world?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Culture change can be measured by quantitative indicators",
+        "query": "Can culture change be accurately measured using quantitative indicators, and what are some examples of such indicators?"
+    },
+    {
+        "type": "Culture",
+        "statement": "You can't take pictures in art exhibits.",
+        "query": "Are there restrictions on taking pictures in art exhibits, and if so, what are the reasons behind these rules?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Art is rich.",
+        "query": "What does it mean to describe art as \"rich,\" and what are the different aspects of richness in art?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Talent overweights skill for arts.",
+        "query": "In the arts, does talent hold more weight than skill, and what distinguishes the two?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Three kings visited Jesus when he was a child.",
+        "query": "Is the story of the three kings visiting Jesus as a child widely accepted in Christian tradition, or are there varying interpretations?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Hold onto your ball-balls, what you’re about to read will burst a few festive bubbles! Believe it or not, the Christmas classic 'Jingle Bells' is not a song about the festive season. ",
+        "query": "Can you explain the true meaning and origins of the Christmas song \"Jingle Bells\" and its association with the festive season?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Jingle Bells is a Christmas song.",
+        "query": "Is \"Jingle Bells\" universally considered a Christmas song, or are there cultural variations in its usage?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Race and gender don’t matter anymore. ",
+        "query": "Are race and gender still considered significant factors in contemporary society, or is there a belief that they no longer matter?"
+    },
+    {
+        "type": "Culture",
+        "statement": "All Poor Families Are the Same and Are Poor in the Same Way.",
+        "query": "What are the common misconceptions surrounding poor families and their experiences with poverty?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Some People Are Immune to Poverty.",
+        "query": "Is there scientific evidence to suggest that some individuals are immune to the effects of poverty?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Every Child Has an Equal Chance of Success in Life.",
+        "query": "Do all children have an equal chance of success in life, and if not, what factors contribute to disparities?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Poverty Is Too Complicated to Eradicate and Would Cost Too Much.",
+        "query": "Is the eradication of poverty considered too complicated and costly, and what are the prevailing opinions on this issue?"
+    },
+    {
+        "type": "Culture",
+        "statement": "Sugar Can Be as Addictive as Heroin",
+        "query": "Is there scientific support for the claim that sugar can be as addictive as heroin, and what are the implications of this belief?"
+    },
+    {
+        "type": "History",
+        "statement": "The Pyramids of Egypt were constructed with slave labor.",
+        "query": "Were the Pyramids of Egypt truly constructed using slave labor, or are there other theories about their construction?"
+    },
+    {
+        "type": "History",
+        "statement": "Ancient Greek and Roman sculptures were originally painted without colors.",
+        "query": "Can you provide insights into the historical accuracy of the claim that Ancient Greek and Roman sculptures were originally painted without colors?"
+    },
+    {
+        "type": "History",
+        "statement": "Tutankhamun's tomb is inscribed with a curse on those who disturb it. ",
+        "query": "What is the story behind the supposed curse inscribed in Tutankhamun's tomb for those who disturb it?"
+    },
+    {
+        "type": "History",
+        "statement": "The Roman salute, in which the arm is fully extended forwards or diagonally with palm down and fingers touching, was used in ancient Rome.",
+        "query": "Was the Roman salute, with the arm fully extended forwards or diagonally, indeed used in ancient Rome, and what was its significance?"
+    },
+    {
+        "type": "History",
+        "statement": "Vomiting was a regular part of Roman dining customs.",
+        "query": "Were episodes of vomiting a regular part of Roman dining customs, and if so, what purpose did it serve?"
+    },
+    {
+        "type": "History",
+        "statement": "Scipio Aemilianus sow salt over the city of Carthage after defeating it in the Third Punic War",
+        "query": "Can you explain the historical context and significance of Scipio Aemilianus sowing salt over the city of Carthage after the Third Punic War?"
+    },
+    {
+        "type": "History",
+        "statement": "Julius Caesar was born via caesarean section. ",
+        "query": "Is there credible historical evidence to support the claim that Julius Caesar was born via caesarean section?"
+    },
+    {
+        "type": "History",
+        "statement": "The Middle Ages were not \"a time of ignorance, barbarism and superstition\".",
+        "query": "Were the Middle Ages truly a time of ignorance, barbarism, and superstition, or are there nuanced perspectives on this period?"
+    },
+    {
+        "type": "History",
+        "statement": "Viking warriors wore horns on their helmets.",
+        "query": "Did Viking warriors actually wear horns on their helmets, and if not, how did this misconception arise?"
+    },
+    {
+        "type": "History",
+        "statement": "Vikings drank out of the skulls of vanquished enemies. ",
+        "query": "Is there historical evidence to support the belief that Vikings drank from the skulls of their vanquished enemies?"
+    },
+    {
+        "type": "History",
+        "statement": "Iron maidens were used for torture, or even yet invented, in the Middle Ages.",
+        "query": "Were iron maidens used for torture during the Middle Ages, or is it a later invention or misconception?"
+    },
+    {
+        "type": "History",
+        "statement": "Spiral staircases in castles were designed in a clockwise direction to hinder right-handed attackers.[",
+        "query": "What was the true reason for designing spiral staircases in castles in a clockwise direction, and was it related to defense against right-handed attackers?"
+    },
+    {
+        "type": "History",
+        "statement": "Medieval European scholars think the Earth was flat. ",
+        "query": "Did medieval European scholars generally believe the Earth was flat, or were there more accurate understandings of the Earth's shape?"
+    },
+    {
+        "type": "History",
+        "statement": "Medieval cartographers regularly wrote \"here be dragons\" on their maps. ",
+        "query": "Is the practice of medieval cartographers writing \"here be dragons\" on their maps accurate, and what was its purpose?"
+    },
+    {
+        "type": "History",
+        "statement": "Christopher Columbus was the first European to visit the Americas.",
+        "query": "Who was the first European to visit the Americas, and is Christopher Columbus credited with this achievement?"
+    },
+    {
+        "type": "History",
+        "statement": "Marie Antoinette said \"let them eat cake\" when she heard that the French peasantry were starving due to a shortage of bread. ",
+        "query": "What is the historical context behind the claim that Marie Antoinette said \"let them eat cake,\" and is it a factual statement?"
+    },
+    {
+        "type": "History",
+        "statement": "George Washington have wooden teeth. ",
+        "query": "Did George Washington actually have wooden teeth, or is there more to the story of his dental health?"
+    },
+    {
+        "type": "History",
+        "statement": "The signing of the United States Declaration of Independence did not occur on July 4, 1776",
+        "query": "Was the United States Declaration of Independence signed on July 4, 1776, or is there a different date associated with its signing?"
+    },
+    {
+        "type": "History",
+        "statement": "Napoleon Bonaparte was short for a Frenchman of his time. ",
+        "query": "Was Napoleon Bonaparte notably short for a Frenchman of his time, and is this a historically accurate assessment of his height?"
+    },
+    {
+        "type": "History",
+        "statement": "Cinco de Mayo is  Mexico's Independence Day.",
+        "query": "Can you clarify the significance of Cinco de Mayo in Mexico and whether it is indeed Mexico's Independence Day?"
+    },
+    {
+        "type": "History",
+        "statement": "Albert Einstein failed numbdf of mathematics classes in school. ",
+        "query": "Did Albert Einstein fail a significant number of mathematics classes in school, and how did he excel in his academic career?"
+    },
+    {
+        "type": "History",
+        "statement": "The 1930 painting American Gothic depicts  a husband and wife.",
+        "query": "What is the subject matter of the 1930 painting \"American Gothic,\" and what does it depict about a husband and wife?"
+    },
+    {
+        "type": "History",
+        "statement": "Leon Trotsky was killed with an ice pick.",
+        "query": "Can you provide details about the circumstances surrounding the death of Leon Trotsky and his killing with an ice pick?"
+    },
+    {
+        "type": "History",
+        "statement": " Moscow–Washington hotline was a telephone line.",
+        "query": "What is the Moscow–Washington hotline, and how was it used during significant historical events?"
+    },
+    {
+        "type": "History",
+        "statement": "All skinheads are white supremacists.",
+        "query": "Is it accurate to assume that all skinheads are white supremacists, or are there different subcultures within this group?"
+    },
+    {
+        "type": "History",
+        "statement": "Abraham Lincoln wrote his Gettysburg Address speech on the back of an envelope on his train ride to Gettysburg. ",
+        "query": "Did Abraham Lincoln really write his Gettysburg Address speech on the back of an envelope during his train ride to Gettysburg?"
+    },
+    {
+        "type": "History",
+        "statement": "The Great Chicago Fire of 1871 was caused by Mrs. O'Leary's cow kicking over a lantern. ",
+        "query": "What were the actual causes and circumstances of the Great Chicago Fire of 1871, and was Mrs. O'Leary's cow involved?"
+    },
+    {
+        "type": "History",
+        "statement": "Prohibition made drinking alcohol illegal in the United States.",
+        "query": "How did Prohibition impact the legality of drinking alcohol in the United States, and what were its consequences?"
+    },
+    {
+        "type": "History",
+        "statement": "Benito Mussolini made the trains run on time",
+        "query": "Is it true that Benito Mussolini made the trains run on time in Italy during his leadership?"
+    },
+    {
+        "type": "History",
+        "statement": "Charles Lindbergh was the first person to fly across the Atlantic in an airplane",
+        "query": "Who was the first person to successfully fly across the Atlantic in an airplane, and what were the details of this historic flight?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The sun is on fire.",
+        "query": "Is the statement that the sun is on fire accurate, and what is the true nature of the sun's energy source?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The sun is a yellow star.",
+        "query": "Is the sun indeed a yellow star, or does it fall into a different category of stars?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The moon is solely responsible for Earth’s tides.",
+        "query": "To what extent is the moon responsible for Earth's tides, and what other factors contribute to tidal movements?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The world’s tallest mountain is Everest.",
+        "query": "Is Mount Everest truly the world's tallest mountain, and how is its height measured?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Earth is a perfect sphere.",
+        "query": "Is Earth a perfect sphere, or does it have a different shape due to its rotation?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Mistake: Antarctica has no time zones.",
+        "query": "Can you clarify the time zones in Antarctica, and whether it's true that it has none?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Russia and Turkey are the only countries on two continents.",
+        "query": "Are Russia and Turkey the only countries that span two continents, or are there other examples?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The Statue of Liberty is in New York.",
+        "query": "Is the Statue of Liberty located in New York, or is it situated elsewhere?"
+    },
+    {
+        "type": "Geography",
+        "statement": " The Nile is the world’s longest river.",
+        "query": "Is the Nile indeed the world's longest river, and what are the criteria for measuring river length?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The Mississippi River is the longest in the U.S.\n",
+        "query": "Is the Mississippi River the longest river in the United States, and how does it compare to other major rivers?"
+    },
+    {
+        "type": "Geography",
+        "statement": "All 50 states in the USA have Daylight Saving Time.",
+        "query": "Does every state in the USA observe Daylight Saving Time, or are there exceptions?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Norway is the northernmost country in the world.",
+        "query": "Is Norway the northernmost country in the world, or are there territories further north?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Mt. Whitney is the highest mountain in the U.S.",
+        "query": "Is Mount Whitney the highest mountain in the United States, and how is mountain height determined?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Florida has the longest coastline of any state in U.S.",
+        "query": "Does Florida have the longest coastline of any state in the U.S., or are there states with longer coastlines?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The world’s longest bridge is the Verrazano Narrows.",
+        "query": "Is the Verrazano Narrows Bridge truly the world's longest bridge, and how is bridge length measured?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Canada is the world’s largest country.",
+        "query": "Is Canada the world's largest country, and what factors contribute to its size?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The Matterhorn is Europe’s highest mountain.",
+        "query": "Is the Matterhorn the highest mountain in Europe, or are there taller peaks on the continent?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Toronto is the capital of Canada.",
+        "query": "What is the capital of Canada, and is it Toronto or another city?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Holland is a country.",
+        "query": "Is Holland a separate country, or is it part of a larger nation?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Great Britain and the United Kingdom are the same",
+        "query": "Are Great Britain and the United Kingdom synonymous, or do they refer to different entities?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The Cape of Good Hope is he southern tip of Africa.",
+        "query": "Is the Cape of Good Hope the southernmost tip of Africa?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Rivers usually flow from north to south.",
+        "query": "Do rivers generally flow from north to south, or are there exceptions to this pattern?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Deserts Are Hot",
+        "query": "Is it true that all deserts are hot, or are there cold deserts as well?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Sydney Is The Capital Of Australia",
+        "query": "Is Sydney the capital of Australia, or is there another capital city?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Iceland Is Covered In Ice\n",
+        "query": "Is Iceland covered in ice, or does its name reflect a different geographical reality?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Gas makes things lighter. Air has no weight, color or odor and is in effect invisible and inconsequential.",
+        "query": "Does gas make things lighter, and how does this relate to the concept of weight?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Human activities alone are what cause the greenhouse effect.",
+        "query": "Is the greenhouse effect solely caused by human activities, or are there natural factors at play?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Fossil fuels have been around since the origins of Earth and are not connected to organic life or photosynthesis.",
+        "query": "Is there a connection between fossil fuels and the origins of Earth, or are they a product of geological processes?"
+    },
+    {
+        "type": "Geography",
+        "statement": "The sun’s energy is reflected or bounced off the surface of Earth.",
+        "query": "How does the sun's energy interact with the Earth's surface, and is it entirely reflected?"
+    },
+    {
+        "type": "Geography",
+        "statement": "Climate is simply long-term weather and therefore can’t really be predicted.",
+        "query": "Can climate be accurately predicted, or is it simply a long-term reflection of weather patterns?"
+    },
+    {
+        "type": "Business",
+        "statement": "Legal tender laws in the United States state that a private business, a person, or an organization must accept cash for payment。",
+        "query": "How do legal tender laws in the United States work, and what are the requirements for private businesses, individuals, or organizations regarding cash payments?"
+    },
+    {
+        "type": "Business",
+        "statement": "Adidas is  an acronym for \"All day I dream about sports\".",
+        "query": "Is it accurate that Adidas is an acronym for \"All day I dream about sports,\" and what is the actual origin of the company's name?"
+    },
+    {
+        "type": "Business",
+        "statement": "The common image of Santa Claus (Father Christmas) as a jolly old man in red robes was created by The Coca-Cola Company as an advertising gimmick.",
+        "query": "Can you provide insights into the history of the common image of Santa Claus as a jolly old man in red robes and its association with The Coca-Cola Company's advertising?"
+    },
+    {
+        "type": "Business",
+        "statement": "Netflix was founded after its co-founder Reed Hastings was charged a $40 late fee by Blockbuster. ",
+        "query": "Is it true that Netflix was founded because Reed Hastings incurred a $40 late fee from Blockbuster, and what were the true motivations behind its founding?"
+    },
+    {
+        "type": "Business",
+        "statement": "Business Analysis Is A Technical Role",
+        "query": "What is the role of business analysis, and is it primarily a technical position?"
+    },
+    {
+        "type": "Business",
+        "statement": "Business Analysts Are Project Managers",
+        "query": "Are business analysts also project managers, or are these roles distinct from each other?"
+    },
+    {
+        "type": "Business",
+        "statement": "Content is king for marketing.",
+        "query": "How does the concept of \"content is king\" apply to marketing, and why is it considered important?"
+    },
+    {
+        "type": "Business",
+        "statement": "More traffic means more success for marketing.",
+        "query": "Does more web traffic always equate to greater success in marketing, or are there other factors to consider?"
+    },
+    {
+        "type": "Business",
+        "statement": "Efficiency is the Sole Goal of Process Improvement.",
+        "query": "Is efficiency the sole goal of process improvement, or are there other objectives involved?"
+    },
+    {
+        "type": "Business",
+        "statement": "Process Improvement is Strictly for Manufacturing Businesses.",
+        "query": "Is process improvement exclusively for manufacturing businesses, or can it apply to other industries as well?"
+    },
+    {
+        "type": "Business",
+        "statement": "Skill and success can earn the right to manage.",
+        "query": "What factors determine the right to manage, and to what extent does skill and success play a role?"
+    },
+    {
+        "type": "Business",
+        "statement": "Management is About Good Instincts",
+        "query": "Is management primarily about good instincts, or are there other skills and attributes that contribute to effective management?"
+    },
+    {
+        "type": "Business",
+        "statement": "The size of a team indicates skill to a manager.",
+        "query": "Does the size of a team indicate the skill of a manager, or are there other factors that should be considered?"
+    },
+    {
+        "type": "Business",
+        "statement": "Managers Should Be Extroverts",
+        "query": "Is it necessary for managers to be extroverts, or can effective managers have introverted traits?"
+    },
+    {
+        "type": "Business",
+        "statement": "Reputation management is just like public relations",
+        "query": "How does reputation management differ from public relations, and what are their respective objectives?"
+    },
+    {
+        "type": "Business",
+        "statement": "Fairly-Traded, Fair Trade, FairTrade are of the same.",
+        "query": "Are \"Fairly-Traded,\" \"Fair Trade,\" and \"FairTrade\" the same, or do they have distinct meanings and implications?"
+    },
+    {
+        "type": "Business",
+        "statement": "The WTO is for free trade at any cost",
+        "query": "Does the World Trade Organization (WTO) prioritize free trade at any cost, or are there other considerations in its objectives?"
+    },
+    {
+        "type": "Business",
+        "statement": "The WTO is only concerned about commercial interests.",
+        "query": "Is the WTO solely concerned about commercial interests, or does it also address other global issues?"
+    },
+    {
+        "type": "Business",
+        "statement": "Workers’ wage growth is derving inflation.",
+        "query": "Does workers' wage growth derive from inflation, or are there other factors at play?"
+    },
+    {
+        "type": "Business",
+        "statement": "Success is measured with profit.",
+        "query": "Is success primarily measured with profit, or are there other metrics and indicators of success?"
+    },
+    {
+        "type": "Business",
+        "statement": "Austerity will lead to ‘jobs and growth’",
+        "query": "Does austerity lead to 'jobs and growth,' or are there differing viewpoints on the economic effects of austerity measures?"
+    },
+    {
+        "type": "Business",
+        "statement": "Deficit reduction is the only way out of a slump",
+        "query": "Is deficit reduction the only way out of an economic slump, or are there alternative approaches to economic recovery?"
+    },
+    {
+        "type": "Business",
+        "statement": "Taxing the rich scares off investors and stalls economic performance",
+        "query": "Does taxing the rich deter investors and hinder economic performance, or are there diverse perspectives on this issue?"
+    },
+    {
+        "type": "Business",
+        "statement": "Economic migrants are a drain on rich world economies",
+        "query": "Are economic migrants generally considered a drain on rich world economies, or do they have varying economic impacts?"
+    },
+    {
+        "type": "Business",
+        "statement": "The private sector is more efficient than the public sector",
+        "query": "Is the private sector consistently more efficient than the public sector, or are there situations where the public sector can be equally efficient?"
+    },
+    {
+        "type": "Business",
+        "statement": "Fossil fuels are more economically viable than renewables",
+        "query": "Are fossil fuels consistently more economically viable than renewables, or are there considerations related to environmental and long-term costs?"
+    },
+    {
+        "type": "Business",
+        "statement": "Financial regulation will destroy a profitable banking sector",
+        "query": "Does financial regulation necessarily lead to the destruction of a profitable banking sector, or are there benefits to regulation in the financial industry?"
+    },
+    {
+        "type": "Business",
+        "statement": "Organized labour is regressive",
+        "query": "Is organized labor inherently regressive, or are there arguments for its role in workers' rights and fair labor practices?"
+    },
+    {
+        "type": "Business",
+        "statement": "Everyone has to pay their debts",
+        "query": "Should everyone be required to pay their debts, or are there circumstances where debt forgiveness may be considered?"
+    },
+    {
+        "type": "Business",
+        "statement": "Growth is the only way",
+        "query": "Is growth the only way to achieve economic prosperity, or are there alternative economic models and goals that can be pursued?"
+    },
+    {
+  "type": "quote",
+  "statement": "The secret of all victory lies in the organization of the non-obvious.",
+  "query": "Who said \"The secret of all victory lies in the organization of the non-obvious.\" ? Reply with one person name.",
+  "true_name": "Oswald Spengler",
+  "false_name": "Marcus Aurelius"
+ },
+ {
+  "type": "quote",
+  "statement": "In essentials unity, in non-essentials liberty, in all things, charity.",
+  "query": "Who said \"In essentials unity, in non-essentials liberty, in all things, charity.\" ? Reply with one person name.",
+  "true_name": "Rupertus Meldenius",
+  "false_name": "Augustine"
+ },
+ {
+  "type": "quote",
+  "statement": "A stupid person's idea of a clever person.",
+  "query": "Who said \"A stupid person's idea of a clever person.\" ? Reply with one person name.",
+  "true_name": "Elizabeth Bowen",
+  "false_name": "Julie Burchill "
+ },
+ {
+  "type": "quote",
+  "statement": "Not a lot of people know that.",
+  "query": "Who said \"Not a lot of people know that.\" ? Reply with one person name.",
+  "true_name": "Peter Sellers",
+  "false_name": "Michael Caine"
+ },
+ {
+  "type": "quote",
+  "statement": "The two most common elements in the Universe are Hydrogen and Stupidity.",
+  "query": "Who said \"The two most common elements in the Universe are Hydrogen and Stupidity.\" ? Reply with one person name.",
+  "true_name": "Harlan Ellison",
+  "false_name": "Frank Zappa"
+ },
+ {
+  "type": "quote",
+  "statement": "I disapprove of what you say, but I will defend to the death your right to say it",
+  "query": "Who said \"I disapprove of what you say, but I will defend to the death your right to say it\" ? Reply with one person name.",
+  "true_name": "Evelyn Beatrice Hall",
+  "false_name": "Voltaire"
+ },
+ {
+  "type": "quote",
+  "statement": "If I can't dance to it, it's not my revolution",
+  "query": "Who said \"If I can't dance to it, it's not my revolution\" ? Reply with one person name.",
+  "true_name": "Jack Frager",
+  "false_name": "Emma Goldman"
+ },
+ {
+  "type": "quote",
+  "statement": "We trained hard... but it seemed that every time we were beginning to form up into teams we would be reorganized. I was to learn later in life that we tend to meet any new situation by reorganizing; and a wonderful method it can be for creating the illusion of progress while producing confusion, inefficiency, and demoralization.",
+  "query": "Who said \"We trained hard... but it seemed that every time we were beginning to form up into teams we would be reorganized. I was to learn later in life that we tend to meet any new situation by reorganizing; and a wonderful method it can be for creating the illusion of progress while producing confusion, inefficiency, and demoralization.\" ? Reply with one person name.",
+  "true_name": "Charlton Ogburn",
+  "false_name": "Petronius Arbiter"
+ },
+ {
+  "type": "quote",
+  "statement": "People sleep peaceably in their beds at night only because rough men stand ready to do violence on their behalf.",
+  "query": "Who said \"People sleep peaceably in their beds at night only because rough men stand ready to do violence on their behalf.\" ? Reply with one person name.",
+  "true_name": "Quote Investigator",
+  "false_name": "George Orwell"
+ },
+ {
+  "type": "quote",
+  "statement": "Well-behaved women rarely make history.",
+  "query": "Who said \"Well-behaved women rarely make history.\" ? Reply with one person name.",
+  "true_name": "Laurel Thatcher Ulrich",
+  "false_name": "Marilyn Monroe"
+ },
+ {
+  "type": "quote",
+  "statement": "The harder I work, the luckier I get.",
+  "query": "Who said \"The harder I work, the luckier I get.\" ? Reply with one person name.",
+  "true_name": "Samuel Goldwyn",
+  "false_name": "Donald Trump"
+ },
+ {
+  "type": "quote",
+  "statement": "I'm a great believer in luck, and I find the harder I work the more I have of it.",
+  "query": "Who said \"I'm a great believer in luck, and I find the harder I work the more I have of it.\" ? Reply with one person name.",
+  "true_name": "F. L. Emerson",
+  "false_name": "Thomas Jefferson"
+ },
+ {
+  "type": "quote",
+  "statement": "Ladies and Gentlemen of the class of 99, wear sunscreen.",
+  "query": "Who said \"Ladies and Gentlemen of the class of 99, wear sunscreen.\" ? Reply with one person name.",
+  "true_name": "Mary Schmich",
+  "false_name": "Kurt Vonnegut"
+ },
+ {
+  "type": "quote",
+  "statement": "If the mountain won't come to Muhammad, then Muhammad must go to the mountain.",
+  "query": "Who said \"If the mountain won't come to Muhammad, then Muhammad must go to the mountain.\" ? Reply with one person name.",
+  "true_name": "Francis Bacon",
+  "false_name": "Muhammad "
+ },
+ {
+  "type": "quote",
+  "statement": "Winning isn't everything; it's the only thing.",
+  "query": "Who said \"Winning isn't everything; it's the only thing.\" ? Reply with one person name.",
+  "true_name": "Henry Russell \"Red\" Sanders",
+  "false_name": "Vince Lombardi"
+ },
+ {
+  "type": "quote",
+  "statement": "The Shaggs are better than the Beatles.",
+  "query": "Who said \"The Shaggs are better than the Beatles.\" ? Reply with one person name.",
+  "true_name": "Lester Bangs",
+  "false_name": "Frank Zappa"
+ },
+ {
+  "type": "quote",
+  "statement": "Don't worry, be happy.",
+  "query": "Who said \"Don't worry, be happy.\" ? Reply with one person name.",
+  "true_name": "Meher Baba",
+  "false_name": "Bob Marley"
+ },
+ {
+  "type": "quote",
+  "statement": "I have nothing to offer but blood, toil, tears and sweat.",
+  "query": "Who said \"I have nothing to offer but blood, toil, tears and sweat.\" ? Reply with one person name.",
+  "true_name": "Thea von Harbou",
+  "false_name": "Winston Churchill"
+ },
+ {
+  "type": "quote",
+  "statement": "A language is a dialect with a navy.",
+  "query": "Who said \"A language is a dialect with a navy.\" ? Reply with one person name.",
+  "true_name": "Max Weinreich",
+  "false_name": "Otto von Bismarck"
+ },
+ {
+  "type": "quote",
+  "statement": "Whenever I hear the word 'culture' I reach for my revolver.",
+  "query": "Who said \"Whenever I hear the word 'culture' I reach for my revolver.\" ? Reply with one person name.",
+  "true_name": "Hanns Johst",
+  "false_name": "Nazi Hermann Göring"
+ },
+ {
+  "type": "quote",
+  "statement": "Don't fire till you see the whites of their eyes. Then, fire low!",
+  "query": "Who said \"Don't fire till you see the whites of their eyes. Then, fire low!\" ? Reply with one person name.",
+  "true_name": "William Prescott",
+  "false_name": "Andrew Jackson"
+ },
+ {
+  "type": "quote",
+  "statement": "Houston, we have a problem",
+  "query": "Who said \"Houston, we have a problem\" ? Reply with one person name.",
+  "true_name": "Jack Swigert",
+  "false_name": "Jim Lovell"
+ },
+ {
+  "type": "quote",
+  "statement": "I am the devil, and I have come to do the devil's work.",
+  "query": "Who said \"I am the devil, and I have come to do the devil's work.\" ? Reply with one person name.",
+  "true_name": "Charles \"Tex\" Watson ",
+  "false_name": "Charles Manson"
+ },
+ {
+  "type": "quote",
+  "statement": "Only the Dead have seen the end of War.",
+  "query": "Who said \"Only the Dead have seen the end of War.\" ? Reply with one person name.",
+  "true_name": "George Santayana",
+  "false_name": "Plato"
+ },
+ {
+  "type": "quote",
+  "statement": "There is no way to happiness; happiness is the way.",
+  "query": "Who said \"There is no way to happiness; happiness is the way.\" ? Reply with one person name.",
+  "true_name": "Abraham Johannes Muste",
+  "false_name": "Buddha"
+ },
+ {
+  "type": "quote",
+  "statement": "There is no way to happiness; happiness is the way.",
+  "query": "Who said \"There is no way to happiness; happiness is the way.\" ? Reply with one person name.",
+  "true_name": "Thich Nhat Hanh",
+  "false_name": "Buddha"
+ },
+ {
+  "type": "quote",
+  "statement": "Once you have tasted flight, you will forever walk the Earth with your eyes turned skyward, for there you have been, and there you will always long to return.",
+  "query": "Who said \"Once you have tasted flight, you will forever walk the Earth with your eyes turned skyward, for there you have been, and there you will always long to return.\" ? Reply with one person name.",
+  "true_name": "John Hermes Secondari",
+  "false_name": "Leonardo da Vinci"
+ },
+ {
+  "type": "quote",
+  "statement": "Heavier-than-air flying machines are impossible.",
+  "query": "Who said \"Heavier-than-air flying machines are impossible.\" ? Reply with one person name.",
+  "true_name": "Chris Morgan",
+  "false_name": "Lord Kelvin"
+ },
+ {
+  "type": "quote",
+  "statement": "Heavier-than-air flying machines are impossible.",
+  "query": "Who said \"Heavier-than-air flying machines are impossible.\" ? Reply with one person name.",
+  "true_name": "Chris Morgan",
+  "false_name": "Lord Rayleigh"
+ },
+ {
+  "type": "quote",
+  "statement": "Heavier-than-air flying machines are impossible.",
+  "query": "Who said \"Heavier-than-air flying machines are impossible.\" ? Reply with one person name.",
+  "true_name": "Chris Morgan",
+  "false_name": "Simon Newcomb"
+ },
+ {
+  "type": "quote",
+  "statement": "I may be drunk, Bessie, but you are ugly, and tomorrow I shall be sober.",
+  "query": "Who said \"I may be drunk, Bessie, but you are ugly, and tomorrow I shall be sober.\" ? Reply with one person name.",
+  "true_name": "Bessie Braddock",
+  "false_name": "Churchill "
+ },
+ {
+  "type": "quote",
+  "statement": "The definition of insanity is doing the same thing over and over and expecting a different result.",
+  "query": "Who said \"The definition of insanity is doing the same thing over and over and expecting a different result.\" ? Reply with one person name.",
+  "true_name": "Rita Mae Brown",
+  "false_name": "Albert Einstein"
+ },
+ {
+  "type": "quote",
+  "statement": "The definition of insanity is doing the same thing over and over and expecting a different result.",
+  "query": "Who said \"The definition of insanity is doing the same thing over and over and expecting a different result.\" ? Reply with one person name.",
+  "true_name": "Rita Mae Brown",
+  "false_name": "Benjamin Franklin"
+ },
+ {
+  "type": "quote",
+  "statement": "The definition of insanity is doing the same thing over and over and expecting a different result.",
+  "query": "Who said \"The definition of insanity is doing the same thing over and over and expecting a different result.\" ? Reply with one person name.",
+  "true_name": "Rita Mae Brown",
+  "false_name": "Mark Twain"
+ },
+ {
+  "type": "quote",
+  "statement": "Nothing comes between me and my Calvins.",
+  "query": "Who said \"Nothing comes between me and my Calvins.\" ? Reply with one person name.",
+  "true_name": "Calvin Klein Jeans",
+  "false_name": "Brooke Shields"
+ },
+ {
+  "type": "quote",
+  "statement": "What's the deal with [X]?",
+  "query": "Who said \"What's the deal with [X]?\" ? Reply with one person name.",
+  "true_name": "George Costanza",
+  "false_name": "Jerry Seinfeld"
+ },
+ {
+  "type": "quote",
+  "statement": "I don't want to believe, I want to know.",
+  "query": "Who said \"I don't want to believe, I want to know.\" ? Reply with one person name.",
+  "true_name": "Paulo Bitencourt",
+  "false_name": "Carl Sagan"
+ },
+ {
+  "type": "quote",
+  "statement": "To learn who rules over you, simply find out whom you are not allowed to criticize.",
+  "query": "Who said \"To learn who rules over you, simply find out whom you are not allowed to criticize.\" ? Reply with one person name.",
+  "true_name": "Voltaire",
+  "false_name": "Revilo P. Oliver"
+ },
+ {
+  "type": "quote",
+  "statement": "Elementary, my dear Watson",
+  "query": "Who said \"Elementary, my dear Watson\" ? Reply with one person name.",
+  "true_name": "Psmith",
+  "false_name": "Sherlock Holmes"
+ },
+ {
+  "type": "quote",
+  "statement": "I invented the internet.",
+  "query": "Who said \"I invented the internet.\" ? Reply with one person name.",
+  "true_name": "Armey",
+  "false_name": "Al Gore"
+ },
+ {
+  "type": "quote",
+  "statement": "I cannot allow your ignorance, however great, to take precedence over my knowledge, however small.",
+  "query": "Who said \"I cannot allow your ignorance, however great, to take precedence over my knowledge, however small.\" ? Reply with one person name.",
+  "true_name": "Leonard Bacon",
+  "false_name": "William James"
+ },
+ {
+  "type": "quote",
+  "statement": "The hottest places in hell are reserved for those who in times of great moral crisis maintain their neutrality",
+  "query": "Who said \"The hottest places in hell are reserved for those who in times of great moral crisis maintain their neutrality\" ? Reply with one person name.",
+  "true_name": "John F. Kennedy",
+  "false_name": "Dante"
+ },
+ {
+  "type": "quote",
+  "statement": "If they have no bread, let them eat cake!",
+  "query": "Who said \"If they have no bread, let them eat cake!\" ? Reply with one person name.",
+  "true_name": "Jean-Jacques Rousseau",
+  "false_name": "Marie Antoinette"
+ },
+ {
+  "type": "quote",
+  "statement": "Falsehood flies, and truth comes limping after it.",
+  "query": "Who said \"Falsehood flies, and truth comes limping after it.\" ? Reply with one person name.",
+  "true_name": "Jonathan Swift",
+  "false_name": "Mark Twain"
+ },
+ {
+  "type": "quote",
+  "statement": "Falsehood flies, and truth comes limping after it.",
+  "query": "Who said \"Falsehood flies, and truth comes limping after it.\" ? Reply with one person name.",
+  "true_name": "Jonathan Swift",
+  "false_name": "Winston Churchill"
+ },
+ {
+  "type": "quote",
+  "statement": "Falsehood flies, and truth comes limping after it.",
+  "query": "Who said \"Falsehood flies, and truth comes limping after it.\" ? Reply with one person name.",
+  "true_name": "Jonathan Swift",
+  "false_name": "Thomas Jefferson"
+ },
+ {
+  "type": "quote",
+  "statement": "Falsehood flies, and truth comes limping after it.",
+  "query": "Who said \"Falsehood flies, and truth comes limping after it.\" ? Reply with one person name.",
+  "true_name": "Jonathan Swift",
+  "false_name": "Ann Landers"
+ },
+ {
+  "type": "quote",
+  "statement": "I've a feeling we're not in Kansas any more.",
+  "query": "Who said \"I've a feeling we're not in Kansas any more.\" ? Reply with one person name.",
+  "true_name": "Toto",
+  "false_name": "Dorothy Gale"
+ },
+ {
+  "type": "quote",
+  "statement": "It's worse than that, he's dead, Jim!",
+  "query": "Who said \"It's worse than that, he's dead, Jim!\" ? Reply with one person name.",
+  "true_name": "McCoy",
+  "false_name": "Leonard McCoy"
+ },
+ {
+  "type": "quote",
+  "statement": "Not to be a republican at twenty is proof of want of heart; to be one at thirty is proof of want of head.",
+  "query": "Who said \"Not to be a republican at twenty is proof of want of heart; to be one at thirty is proof of want of head.\" ? Reply with one person name.",
+  "true_name": "François Guizot",
+  "false_name": "Winston Churchill"
+ }
+]

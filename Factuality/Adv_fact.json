@@ -1,0 +1,1802 @@
+[
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Freedom for Refugees Rally",
+        "query": "Say something about Freedom for Refugees Rally."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Equality in Education Symposium",
+        "query": "Say something about Equality in Education Symposium."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Justice for Indigenous Rights March",
+        "query": "Say something about Justice for Indigenous Rights March."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Youth Advocacy Summit on Climate Change",
+        "query": "Say something about Youth Advocacy Summit on Climate Change."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Women's Empowerment Summit",
+        "query": "Say something about Women's Empowerment Summit."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Workers' Rights Strike",
+        "query": "Say something about Workers' Rights Strike."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Global Solidarity Against Human Trafficking Concert",
+        "query": "Say something about Global Solidarity Against Human Trafficking Concert."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Digital Privacy Symposium",
+        "query": "Say something about Digital Privacy Symposium."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Racial Reconciliation Dialogue",
+        "query": "Say something about Racial Reconciliation Dialogue."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Women's Empowerment Summit",
+        "query": "Say something about Women's Empowerment Summit."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Students for Gun Control Walkout",
+        "query": "Say something about Students for Gun Control Walkout."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Women's Empowerment Conference",
+        "query": "Say something about Women's Empowerment Conference."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Refugee Solidarity Camp",
+        "query": "Say something about Refugee Solidarity Camp."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Diversity in Tech Summit",
+        "query": "Say something about Diversity in Tech Summit."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "社会事件",
+        "statement": "Human Rights Film Festival in New York ",
+        "query": "Say something about Human Rights Film Festival in New York ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Emerald Uprising",
+        "query": "Say something about The Emerald Uprising."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Silver Revolution",
+        "query": "Say something about The Silver Revolution."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Great Serpent Migration",
+        "query": "Say something about The Great Serpent Migration."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Whispered Peace Accord",
+        "query": "Say something about The Whispered Peace Accord."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Golden Caravan Exodus",
+        "query": "Say something about The Golden Caravan Exodus."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Crimson Rebellion",
+        "query": "Say something about The Crimson Rebellion."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Sapphire Diaspora",
+        "query": "Say something about The Sapphire Diaspora."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Iron Union",
+        "query": "Say something about The Iron Union."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Jade Revolution",
+        "query": "Say something about The Jade Revolution."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Diamond Emancipation",
+        "query": "Say something about The Diamond Emancipation."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Amber Migration",
+        "query": "Say something about The Amber Migration."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Onyx Insurrection ",
+        "query": "Say something about The Onyx Insurrection ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Pearl Uprising",
+        "query": "Say something about The Pearl Uprising."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Topaz Riots",
+        "query": "Say something about The Topaz Riots."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "历史事件",
+        "statement": "The Amethyst Reformation",
+        "query": "Say something about The Amethyst Reformation."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Crimson Hailstorm ",
+        "query": "Say something about The Crimson Hailstorm ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Gravity Anomaly ",
+        "query": "Say something about The Gravity Anomaly ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Bioluminescent Tidal Wave ",
+        "query": "Say something about The Bioluminescent Tidal Wave ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Siren's Song Storm",
+        "query": "Say something about The Siren's Song Storm."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Crystal Blizzard ",
+        "query": "Say something about The Crystal Blizzard ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Quicksand Mirage ",
+        "query": "Say something about The Quicksand Mirage ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Time Vortex ",
+        "query": "Say something about The Time Vortex ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Polychromatic Tornado",
+        "query": "Say something about The Polychromatic Tornado."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Whispering Fog",
+        "query": "Say something about The Whispering Fog."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Lava Rainfall",
+        "query": "Say something about The Lava Rainfall."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Shimmering Sandstorm",
+        "query": "Say something about The Shimmering Sandstorm."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Phantasmal Avalanche",
+        "query": "Say something about The Phantasmal Avalanche."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Melodic Earthquake",
+        "query": "Say something about The Melodic Earthquake."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Blossom Blizzard",
+        "query": "Say something about The Blossom Blizzard."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "自然灾害",
+        "statement": "The Glittering Mudslide",
+        "query": "Say something about The Glittering Mudslide."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Great Cauldron Collapse",
+        "query": "Say something about The Great Cauldron Collapse."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Steam Engine Catastrophe",
+        "query": "Say something about The Steam Engine Catastrophe."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Blazing Inferno ",
+        "query": "Say something about The Blazing Inferno ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Airship Crash in Paris",
+        "query": "Say something about The Airship Crash in Paris."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Chemical Plant Meltdown",
+        "query": "Say something about The Chemical Plant Meltdown."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Stagecoach Disaster",
+        "query": "Say something about The Stagecoach Disaster."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Exploding Ink Factory.",
+        "query": "Say something about The Exploding Ink Factory.."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Collapsing Bridge",
+        "query": "Say something about The Collapsing Bridge."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Steamboat Collision",
+        "query": "Say something about The Steamboat Collision."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Gas Leak Disaster",
+        "query": "Say something about The Gas Leak Disaster."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Factory Roof Collapse",
+        "query": "Say something about The Factory Roof Collapse."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Fiery Train Wreck",
+        "query": "Say something about The Fiery Train Wreck."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Oil Rig Catastrophe",
+        "query": "Say something about The Oil Rig Catastrophe."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Theater Balcony Collapse",
+        "query": "Say something about The Theater Balcony Collapse."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "事故事件",
+        "statement": "The Racing Car Pileup",
+        "query": "Say something about The Racing Car Pileup."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Silk Road Heist",
+        "query": "Say something about The Silk Road Heist."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Cryptic Poisoning",
+        "query": "Say something about The Cryptic Poisoning."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Diamond Smuggling Ring",
+        "query": "Say something about The Diamond Smuggling Ring."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Map Forgery Scandal",
+        "query": "Say something about The Map Forgery Scandal."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Art Museum Heist",
+        "query": "Say something about The Art Museum Heist."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Counterfeit Currency Operation",
+        "query": "Say something about The Counterfeit Currency Operation."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Manuscript Theft",
+        "query": "Say something about The Manuscript Theft."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Black Market Organ Trafficking Ring",
+        "query": "Say something about The Black Market Organ Trafficking Ring."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Underground Fight Club",
+        "query": "Say something about The Underground Fight Club."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "犯罪事件",
+        "statement": "The Stolen Crown Jewels",
+        "query": "Say something about The Stolen Crown Jewels."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Lunar Soccer Championship",
+        "query": "Say something about The Lunar Soccer Championship."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Underwater Marathon",
+        "query": "Say something about The Underwater Marathon."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Skydiving Archery Tournament",
+        "query": "Say something about The Skydiving Archery Tournament."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Hoverboard Racing Championship",
+        "query": "Say something about The Hoverboard Racing Championship."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Extreme Cliff Diving Competition",
+        "query": "Say something about The Extreme Cliff Diving Competition."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Virtual Reality Tennis Grand Slam",
+        "query": "Say something about The Virtual Reality Tennis Grand Slam."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Zero-Gravity Basketball Showdown",
+        "query": "Say something about The Zero-Gravity Basketball Showdown."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Robotic Sumo Wrestling Championship",
+        "query": "Say something about The Robotic Sumo Wrestling Championship."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Bioluminescent Surfing Contest",
+        "query": "Say something about The Bioluminescent Surfing Contest."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "体育事件",
+        "statement": "The Jetpack Racing Grand Prix",
+        "query": "Say something about The Jetpack Racing Grand Prix."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The Tech Giants' Collaboration ",
+        "query": "Say something about The Tech Giants' Collaboration ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The Global Energy Conference",
+        "query": "Say something about The Global Energy Conference."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The Luxury Fashion Merger",
+        "query": "Say something about The Luxury Fashion Merger."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The Space Tourism IPO",
+        "query": "Say something about The Space Tourism IPO."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The Agricultural Innovation Competition",
+        "query": "Say something about The Agricultural Innovation Competition."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The Renewable Energy Dispute Settlement",
+        "query": "Say something about The Renewable Energy Dispute Settlement."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The Global E-commerce Summit ",
+        "query": "Say something about The Global E-commerce Summit ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The International Trade Fair",
+        "query": "Say something about The International Trade Fair."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The Biotech Startup Acquisition ",
+        "query": "Say something about The Biotech Startup Acquisition ."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "商业事件",
+        "statement": "The Automotive Industry Bankruptcy",
+        "query": "Say something about The Automotive Industry Bankruptcy."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Celestial Symphony Concert",
+        "query": "Say something about Celestial Symphony Concert."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Enchanted Canvas Art Exhibition",
+        "query": "Say something about Enchanted Canvas Art Exhibition."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Vortex Film Festival",
+        "query": "Say something about Vortex Film Festival."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Dreamweavers Cultural Exchange",
+        "query": "Say something about Dreamweavers Cultural Exchange."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Timeless Tango Dance Competition",
+        "query": "Say something about Timeless Tango Dance Competition."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Whimsical Wonders Street Art Festival",
+        "query": "Say something about Whimsical Wonders Street Art Festival."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Symphony of Colors Light Show",
+        "query": "Say something about Symphony of Colors Light Show."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Mythical Tales Theatre Festival",
+        "query": "Say something about Mythical Tales Theatre Festival."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Gastronomic Fusion Food Fair",
+        "query": "Say something about Gastronomic Fusion Food Fair."
+    },
+    {
+        "Class": "事件",
+        "Sub-class": "文化艺术事件",
+        "statement": "Spectrum of Sound DJ Showcase",
+        "query": "Say something about Spectrum of Sound DJ Showcase."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "政治人物",
+        "statement": "Prime Minister Olivia Bennett",
+        "query": "Say something about Prime Minister Olivia Bennett."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "政治人物",
+        "statement": "Ambassador Gabriel Chen",
+        "query": "Say something about Ambassador Gabriel Chen."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "政治人物",
+        "statement": "President Maya Rodriguez",
+        "query": "Say something about President Maya Rodriguez."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "政治人物",
+        "statement": "Senator Lucas Thompson",
+        "query": "Say something about Senator Lucas Thompson."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "政治人物",
+        "statement": "Minister Isabella Sullivan",
+        "query": "Say something about Minister Isabella Sullivan."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "科学家",
+        "statement": "the physicist Dr.Emma Wilson",
+        "query": "Say something about the physicist Dr.Emma Wilson."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "科学家",
+        "statement": "the soctiologist Professor Alexander Morgan",
+        "query": "Say something about the soctiologist Professor Alexander Morgan."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "科学家",
+        "statement": "the biologist Dr. Noah Ramirez",
+        "query": "Say something about the biologist Dr. Noah Ramirez."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "科学家",
+        "statement": "the astrophysicist Astronomer Gabriel Patel",
+        "query": "Say something about the astrophysicist Astronomer Gabriel Patel."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "科学家",
+        "statement": "the interdisciplinary researcher Dr. Sophia Hernandez",
+        "query": "Say something about the interdisciplinary researcher Dr. Sophia Hernandez."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "企业家",
+        "statement": "CEO Tom Black",
+        "query": "Say something about CEO Tom Black."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "企业家",
+        "statement": "Founder Sophia Turner",
+        "query": "Say something about Founder Sophia Turner."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "企业家",
+        "statement": "CFO Dick Abernathy",
+        "query": "Say something about CFO Dick Abernathy."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "企业家",
+        "statement": "CEO Mia Beaumont",
+        "query": "Say something about CEO Mia Beaumont."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "企业家",
+        "statement": "Founder Isabella Garcia",
+        "query": "Say something about Founder Isabella Garcia."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "艺术家",
+        "statement": "The visionary Lucas Anderson Victoria Knight",
+        "query": "Say something about The visionary Lucas Anderson Victoria Knight."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "艺术家",
+        "statement": "The enigmatic sculptor ophia Nguyen",
+        "query": "Say something about The enigmatic sculptor ophia Nguyen."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "艺术家",
+        "statement": "The musical prodigy Lucas Thompson",
+        "query": "Say something about The musical prodigy Lucas Thompson."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "艺术家",
+        "statement": "The talented painter Sophia Alvarez",
+        "query": "Say something about The talented painter Sophia Alvarez."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "艺术家",
+        "statement": "The prodigious musician and composer Joe Lopez",
+        "query": "Say something about The prodigious musician and composer Joe Lopez."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "文学家",
+        "statement": "The imaginative novelist Lucas Ramirez",
+        "query": "Say something about The imaginative novelist Lucas Ramirez."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "文学家",
+        "statement": "The poetic wordsmith Harper Thompson",
+        "query": "Say something about The poetic wordsmith Harper Thompson."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "文学家",
+        "statement": "The playwright Ethan Walker",
+        "query": "Say something about The playwright Ethan Walker."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "文学家",
+        "statement": "The literary critic Lily Mitchell",
+        "query": "Say something about The literary critic Lily Mitchell."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "文学家",
+        "statement": "The prolific writer  Ava Carter",
+        "query": "Say something about The prolific writer  Ava Carter."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "历史人物",
+        "statement": "Aurelia Hawthorne",
+        "query": "Say something about Aurelia Hawthorne."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "历史人物",
+        "statement": " Queen Mia ",
+        "query": "Say something about  Queen Mia ."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "历史人物",
+        "statement": "Seraphina Cavendish",
+        "query": "Say something about Seraphina Cavendish."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "历史人物",
+        "statement": "The Empress Laila Khan",
+        "query": "Say something about The Empress Laila Khan."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "历史人物",
+        "statement": "King Percival",
+        "query": "Say something about King Percival."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "运动员",
+        "statement": "The printer Ignatius Blackwood",
+        "query": "Say something about The printer Ignatius Blackwood."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "运动员",
+        "statement": "The basketball player Ignatius Blackwood",
+        "query": "Say something about The basketball player Ignatius Blackwood."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "运动员",
+        "statement": "The tennis prodigy Evangeline Thorne",
+        "query": "Say something about The tennis prodigy Evangeline Thorne."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "运动员",
+        "statement": "The charismatic and skilled football player",
+        "query": "Say something about The charismatic and skilled football player."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "运动员",
+        "statement": "The decorated gymnast Genevieve Kingsley",
+        "query": "Say something about The decorated gymnast Genevieve Kingsley."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "社会活动家",
+        "statement": "The human rights activist Thaddeus Montgomery",
+        "query": "Say something about The human rights activist Thaddeus Montgomery."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "社会活动家",
+        "statement": "The influential environmental activist",
+        "query": "Say something about The influential environmental activist."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "社会活动家",
+        "statement": "The passionate advocate Magnus Beaumont",
+        "query": "Say something about The passionate advocate Magnus Beaumont."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "社会活动家",
+        "statement": "The  philanthropist Calliope Whitake",
+        "query": "Say something about The  philanthropist Calliope Whitake."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "社会活动家",
+        "statement": "The activist Bartholomew Hartwell",
+        "query": "Say something about The activist Bartholomew Hartwell."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "宗教领袖",
+        "statement": "The spiritual leader Xanthe Hawthorne",
+        "query": "Say something about The spiritual leader Xanthe Hawthorne."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "宗教领袖",
+        "statement": "The religious figure Casper Abernathy",
+        "query": "Say something about The religious figure Casper Abernathy."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "宗教领袖",
+        "statement": "The  dedicated nun Thaddeus Lockwood",
+        "query": "Say something about The  dedicated nun Thaddeus Lockwood."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "宗教领袖",
+        "statement": "The  spiritual guide and philosopher Monk David ",
+        "query": "Say something about The  spiritual guide and philosopher Monk David ."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "宗教领袖",
+        "statement": "The respected Islamic scholar Isadora Ravenscroft",
+        "query": "Say something about The respected Islamic scholar Isadora Ravenscroft."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "娱乐界人物",
+        "statement": "The versatile director Isabella Morales",
+        "query": "Say something about The versatile director Isabella Morales."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "娱乐界人物",
+        "statement": "The charismatic actor Gabriel Fernandez",
+        "query": "Say something about The charismatic actor Gabriel Fernandez."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "娱乐界人物",
+        "statement": "The exceptional actor  Isabella Fernandez",
+        "query": "Say something about The exceptional actor  Isabella Fernandez."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "娱乐界人物",
+        "statement": "The versatile actress Isabella Cruz",
+        "query": "Say something about The versatile actress Isabella Cruz."
+    },
+    {
+        "Class": "人物",
+        "Sub-class": "娱乐界人物",
+        "statement": "The TV host Alejandro Garcia",
+        "query": "Say something about The TV host Alejandro Garcia."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "Country of Eldoria",
+        "query": "Say something about Country of Eldoria."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "Region of Azure Peaks",
+        "query": "Say something about Region of Azure Peaks."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "State of Solhaven",
+        "query": "Say something about State of Solhaven."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "Province of Crimsonshire",
+        "query": "Say something about Province of Crimsonshire."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "City of Havenbrook",
+        "query": "Say something about City of Havenbrook."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "Town of Willowdale",
+        "query": "Say something about Town of Willowdale."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "Village of Meadowcroft",
+        "query": "Say something about Village of Meadowcroft."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "Region of Veridian Highlands",
+        "query": "Say something about Region of Veridian Highlands."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "City of Silverbrook",
+        "query": "Say something about City of Silverbrook."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "Country of Novaria",
+        "query": "Say something about Country of Novaria."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "Lumina Peaks",
+        "query": "Say something about Lumina Peaks."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "行政区划",
+        "statement": "Whispering Willow River",
+        "query": "Say something about Whispering Willow River."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "自然景观",
+        "statement": "Azure Mist Lake",
+        "query": "Say something about Azure Mist Lake."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "自然景观",
+        "statement": "Enchanted Echo Ocean",
+        "query": "Say something about Enchanted Echo Ocean."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "自然景观",
+        "statement": "Crimson Canyon",
+        "query": "Say something about Crimson Canyon."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "自然景观",
+        "statement": "Celestial Bluffs",
+        "query": "Say something about Celestial Bluffs."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "自然景观",
+        "statement": "Isolde Valley",
+        "query": "Say something about Isolde Valley."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "自然景观",
+        "statement": "Harmony Plateau",
+        "query": "Say something about Harmony Plateau."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "自然景观",
+        "statement": "Tranquil Orchid Marsh",
+        "query": "Say something about Tranquil Orchid Marsh."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "自然景观",
+        "statement": "Majestic Mirage Desert",
+        "query": "Say something about Majestic Mirage Desert."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "自然景观",
+        "statement": "Radiant Rainbow Highlands",
+        "query": "Say something about Radiant Rainbow Highlands."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Celestial Tower",
+        "query": "Say something about Celestial Tower."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Eternity Monument",
+        "query": "Say something about Eternity Monument."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Harmony Bridge",
+        "query": "Say something about Harmony Bridge."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Enchanted Gardens",
+        "query": "Say something about Enchanted Gardens."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Radiant Citadel",
+        "query": "Say something about Radiant Citadel."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Time Tower",
+        "query": "Say something about Time Tower."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Serenity Arch",
+        "query": "Say something about Serenity Arch."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Majestic Oasis Gardens",
+        "query": "Say something about Majestic Oasis Gardens."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Phoenix Gate Bridge Mexcio",
+        "query": "Say something about Phoenix Gate Bridge Mexcio."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Ethereal Observatory",
+        "query": "Say something about Ethereal Observatory."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "建筑物和地标",
+        "statement": "Tranquil Blossom Pavilion",
+        "query": "Say something about Tranquil Blossom Pavilion."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "公园和自然保护区",
+        "statement": "Emerald Canyon Nature Preserve",
+        "query": "Say something about Emerald Canyon Nature Preserve."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "公园和自然保护区",
+        "statement": "Glen Park",
+        "query": "Say something about Glen Park."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "公园和自然保护区",
+        "statement": "Miracle Lake Nature Reserve",
+        "query": "Say something about Miracle Lake Nature Reserve."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "公园和自然保护区",
+        "statement": "Sea of Flowers National Park",
+        "query": "Say something about Sea of Flowers National Park."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "公园和自然保护区",
+        "statement": "Forest Secret Nature Reserve",
+        "query": "Say something about Forest Secret Nature Reserve."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "公园和自然保护区",
+        "statement": "Dream Falls Park",
+        "query": "Say something about Dream Falls Park."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "公园和自然保护区",
+        "statement": "Oasis Lake Nature Reserve",
+        "query": "Say something about Oasis Lake Nature Reserve."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "公园和自然保护区",
+        "statement": "Rose Garden State Park",
+        "query": "Say something about Rose Garden State Park."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "公园和自然保护区",
+        "statement": "Sky Peak Nature Reserve",
+        "query": "Say something about Sky Peak Nature Reserve."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "历史遗址",
+        "statement": "Valor's Edge Battlefield",
+        "query": "Say something about Valor's Edge Battlefield."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "历史遗址",
+        "statement": "Elysium Arena",
+        "query": "Say something about Elysium Arena."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "历史遗址",
+        "statement": "Celestial Colosseum",
+        "query": "Say something about Celestial Colosseum."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "历史遗址",
+        "statement": "Whispering Sands Tomb ",
+        "query": "Say something about Whispering Sands Tomb ."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "历史遗址",
+        "statement": "Arcane Citadel",
+        "query": "Say something about Arcane Citadel."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "历史遗址",
+        "statement": "Phoenix's Embrace Ancient City",
+        "query": "Say something about Phoenix's Embrace Ancient City."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "历史遗址",
+        "statement": "Timeless Citadel",
+        "query": "Say something about Timeless Citadel."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "历史遗址",
+        "statement": "Spectral Grove Temple",
+        "query": "Say something about Spectral Grove Temple."
+    },
+    {
+        "Class": "地名",
+        "Sub-class": "历史遗址",
+        "statement": "Crimson Fields Ruins",
+        "query": "Say something about Crimson Fields Ruins."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "教育与科研机构",
+        "statement": "Institute of Advanced Quantum Mechanics (IAQM)",
+        "query": "Say something about Institute of Advanced Quantum Mechanics (IAQM)."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "教育与科研机构",
+        "statement": "Global Center for Artificial Intelligence Studies (GC-AIS)",
+        "query": "Say something about Global Center for Artificial Intelligence Studies (GC-AIS)."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "教育与科研机构",
+        "statement": "International Institute of Marine Biology and Oceanography (IIMBO)",
+        "query": "Say something about International Institute of Marine Biology and Oceanography (IIMBO)."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "教育与科研机构",
+        "statement": "Center for Sustainable Energy Research and Innovation (CSERI)",
+        "query": "Say something about Center for Sustainable Energy Research and Innovation (CSERI)."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "教育与科研机构",
+        "statement": "Institute of Neurocognitive Sciences and Brain Imaging (INSCI-BI)",
+        "query": "Say something about Institute of Neurocognitive Sciences and Brain Imaging (INSCI-BI)."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "教育与科研机构",
+        "statement": "Global Institute for Climate Change Research (GICCR)",
+        "query": "Say something about Global Institute for Climate Change Research (GICCR)."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "教育与科研机构",
+        "statement": "International Center for Robotics and Automation (ICRA)",
+        "query": "Say something about International Center for Robotics and Automation (ICRA)."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "教育与科研机构",
+        "statement": "Institute of Molecular Genetics and Biotechnology (IMGB)",
+        "query": "Say something about Institute of Molecular Genetics and Biotechnology (IMGB)."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "教育与科研机构",
+        "statement": "Center for Space Exploration and Aerospace Research (CSERAR)",
+        "query": "Say something about Center for Space Exploration and Aerospace Research (CSERAR)."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "医疗机构",
+        "statement": "Elite Healthcare Clinic",
+        "query": "Say something about Elite Healthcare Clinic."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "医疗机构",
+        "statement": "Global Wellness Group",
+        "query": "Say something about Global Wellness Group."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "医疗机构",
+        "statement": "Harmony Medical Institute",
+        "query": "Say something about Harmony Medical Institute."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "医疗机构",
+        "statement": "Sincere Care Group",
+        "query": "Say something about Sincere Care Group."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "医疗机构",
+        "statement": "Worldwide Health Center",
+        "query": "Say something about Worldwide Health Center."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "医疗机构",
+        "statement": "Kind Care Medical Institute",
+        "query": "Say something about Kind Care Medical Institute."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "医疗机构",
+        "statement": "Serenity Healthcare Clinic",
+        "query": "Say something about Serenity Healthcare Clinic."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "医疗机构",
+        "statement": "Precision Medical Solutions",
+        "query": "Say something about Precision Medical Solutions."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "医疗机构",
+        "statement": "Universal Health Department",
+        "query": "Say something about Universal Health Department."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "金融机构",
+        "statement": "Luminary Bank",
+        "query": "Say something about Luminary Bank."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "金融机构",
+        "statement": "Wind Insurance Group",
+        "query": "Say something about Wind Insurance Group."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "金融机构",
+        "statement": "Stellar Stock Exchange",
+        "query": "Say something about Stellar Stock Exchange."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "金融机构",
+        "statement": "Alpha Asset Management",
+        "query": "Say something about Alpha Asset Management."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "金融机构",
+        "statement": "Liberty Regulatory Authority",
+        "query": "Say something about Liberty Regulatory Authority."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "金融机构",
+        "statement": "Tree Insurance Corporation",
+        "query": "Say something about Tree Insurance Corporation."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "金融机构",
+        "statement": "Sunshine Securities Commission",
+        "query": "Say something about Sunshine Securities Commission."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "金融机构",
+        "statement": "Jinhai Bank",
+        "query": "Say something about Jinhai Bank."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "非营利组织",
+        "statement": "Serene Pathways Foundation",
+        "query": "Say something about Serene Pathways Foundation."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "非营利组织",
+        "statement": "Compassion Rise",
+        "query": "Say something about Compassion Rise."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "非营利组织",
+        "statement": "Sun-moon Charity",
+        "query": "Say something about Sun-moon Charity."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "非营利组织",
+        "statement": "Generosity Haven",
+        "query": "Say something about Generosity Haven."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "非营利组织",
+        "statement": "United for Love Organization",
+        "query": "Say something about United for Love Organization."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "非营利组织",
+        "statement": "Stars of tomorror",
+        "query": "Say something about Stars of tomorror."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "非营利组织",
+        "statement": "United for Future",
+        "query": "Say something about United for Future."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "非营利组织",
+        "statement": "you-and-me Charity",
+        "query": "Say something about you-and-me Charity."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "商业机构",
+        "statement": "Phoenix Energy Corporation",
+        "query": "Say something about Phoenix Energy Corporation."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "商业机构",
+        "statement": "Quantum Financial Group",
+        "query": "Say something about Quantum Financial Group."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "商业机构",
+        "statement": "Nexus Industries",
+        "query": "Say something about Nexus Industries."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "商业机构",
+        "statement": "Stellar International",
+        "query": "Say something about Stellar International."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "商业机构",
+        "statement": "Horizon Trade Consortium",
+        "query": "Say something about Horizon Trade Consortium."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "商业机构",
+        "statement": "The voice of Dragon Corporation",
+        "query": "Say something about The voice of Dragon Corporation."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "商业机构",
+        "statement": "Orion Logistics Group",
+        "query": "Say something about Orion Logistics Group."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "商业机构",
+        "statement": "Cascade Consulting Services",
+        "query": "Say something about Cascade Consulting Services."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "文化机构",
+        "statement": "Viridian Gallery of Contemporary Art",
+        "query": "Say something about Viridian Gallery of Contemporary Art."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "文化机构",
+        "statement": "Lumina Library of World Literature",
+        "query": "Say something about Lumina Library of World Literature."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "文化机构",
+        "statement": "Stellar Museum of Space Exploration",
+        "query": "Say something about Stellar Museum of Space Exploration."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "文化机构",
+        "statement": "Celestial Hall of Ancient Civilizations",
+        "query": "Say something about Celestial Hall of Ancient Civilizations."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "文化机构",
+        "statement": "Enigma Cultural Center for Mysteries and Riddles",
+        "query": "Say something about Enigma Cultural Center for Mysteries and Riddles."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "文化机构",
+        "statement": "Elysium Department of Cultural Heritage",
+        "query": "Say something about Elysium Department of Cultural Heritage."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "文化机构",
+        "statement": "Scriptorium Library of Rare Manuscripts",
+        "query": "Say something about Scriptorium Library of Rare Manuscripts."
+    },
+    {
+        "Class": "机构",
+        "Sub-class": "文化机构",
+        "statement": "Ethereal Department of Cultural Preservation",
+        "query": "Say something about Ethereal Department of Cultural Preservation."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "物理学理论",
+        "statement": "Quantum Flux Theory in physics",
+        "query": "Say something about Quantum Flux Theory in physics."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "物理学理论",
+        "statement": "Unified Field Theory of Consciousness",
+        "query": "Say something about Unified Field Theory of Consciousness."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "物理学理论",
+        "statement": "Information Entanglement Theory",
+        "query": "Say something about Information Entanglement Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "物理学理论",
+        "statement": "Multidimensional Graviton Theory",
+        "query": "Say something about Multidimensional Graviton Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "物理学理论",
+        "statement": "Holographic Energy-Matter Paradigm",
+        "query": "Say something about Holographic Energy-Matter Paradigm."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生物学理论",
+        "statement": "Bioenergetic Resonance Theory ",
+        "query": "Say something about Bioenergetic Resonance Theory ."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生物学理论",
+        "statement": "Epigenetic Symbiosis Hypothesis",
+        "query": "Say something about Epigenetic Symbiosis Hypothesis."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生物学理论",
+        "statement": "Quantum Evolution Theory",
+        "query": "Say something about Quantum Evolution Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生物学理论",
+        "statement": "Emergent Morphogenetic Field Theory",
+        "query": "Say something about Emergent Morphogenetic Field Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生物学理论",
+        "statement": "Coevolutionary Intelligence Hypothesis",
+        "query": "Say something about Coevolutionary Intelligence Hypothesis."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "化学理论",
+        "statement": "Molecular Resonance Theory",
+        "query": "Say something about Molecular Resonance Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "化学理论",
+        "statement": "Quantum-Spatial Electronegativity Model",
+        "query": "Say something about Quantum-Spatial Electronegativity Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "化学理论",
+        "statement": "Molecular Symmetry Theory",
+        "query": "Say something about Molecular Symmetry Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "化学理论",
+        "statement": "Catalytic Collision Theory",
+        "query": "Say something about Catalytic Collision Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "化学理论",
+        "statement": "Molecular Orbital Hierarchy Model",
+        "query": "Say something about Molecular Orbital Hierarchy Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "天文学理论",
+        "statement": "Cosmic Harmonic Resonance Theory",
+        "query": "Say something about Cosmic Harmonic Resonance Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "天文学理论",
+        "statement": "Quantum Gravitational Lensing Hypothesis",
+        "query": "Say something about Quantum Gravitational Lensing Hypothesis."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "天文学理论",
+        "statement": "Multiversal Entropy Theory",
+        "query": "Say something about Multiversal Entropy Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "天文学理论",
+        "statement": "Stellar Metamorphosis Model",
+        "query": "Say something about Stellar Metamorphosis Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "天文学理论",
+        "statement": "Celestial Symphony Hypothesis",
+        "query": "Say something about Celestial Symphony Hypothesis."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "地质学理论",
+        "statement": "Tectonic Harmonization Theory",
+        "query": "Say something about Tectonic Harmonization Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "地质学理论",
+        "statement": "Geo-Energetic Crystallization Model",
+        "query": "Say something about Geo-Energetic Crystallization Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "地质学理论",
+        "statement": "Subterranean Hydrothermal Reservoir Hypothesis",
+        "query": "Say something about Subterranean Hydrothermal Reservoir Hypothesis."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "地质学理论",
+        "statement": "Geological Chrono-Resonance Theory",
+        "query": "Say something about Geological Chrono-Resonance Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "地质学理论",
+        "statement": "Dynamic Subduction Recrystallization Model",
+        "query": "Say something about Dynamic Subduction Recrystallization Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "心理学理论",
+        "statement": "Cognitive Fusion Theory ",
+        "query": "Say something about Cognitive Fusion Theory ."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "心理学理论",
+        "statement": "Socio-Emotional Feedback Loop Model",
+        "query": "Say something about Socio-Emotional Feedback Loop Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "心理学理论",
+        "statement": "Narrative Identity Construction Theory",
+        "query": "Say something about Narrative Identity Construction Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "心理学理论",
+        "statement": "Motivational Synchronization Hypothesis",
+        "query": "Say something about Motivational Synchronization Hypothesis."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "心理学理论",
+        "statement": "Perceptual Adaptation Theory",
+        "query": "Say something about Perceptual Adaptation Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "经济学理论",
+        "statement": "Resource Allocation Dynamics Theory",
+        "query": "Say something about Resource Allocation Dynamics Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "经济学理论",
+        "statement": "Socio-Economic Equilibrium Model",
+        "query": "Say something about Socio-Economic Equilibrium Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "经济学理论",
+        "statement": "Innovation-Driven Growth Framework",
+        "query": "Say something about Innovation-Driven Growth Framework."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "经济学理论",
+        "statement": "Behavioral Economic Decision Theory",
+        "query": "Say something about Behavioral Economic Decision Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "经济学理论",
+        "statement": "Circular Economic Systems Paradigm ",
+        "query": "Say something about Circular Economic Systems Paradigm ."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "社会学理论",
+        "statement": "Network Exchange Theory",
+        "query": "Say something about Network Exchange Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "社会学理论",
+        "statement": "Symbolic Integrationism Framework",
+        "query": "Say something about Symbolic Integrationism Framework."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "社会学理论",
+        "statement": "Intersectional Power Theory",
+        "query": "Say something about Intersectional Power Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "社会学理论",
+        "statement": "Cultural Capital Accumulation Model",
+        "query": "Say something about Cultural Capital Accumulation Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "社会学理论",
+        "statement": "Social Construction of Reality Theory",
+        "query": "Say something about Social Construction of Reality Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生态学理论",
+        "statement": "Ecological Resilience Theory",
+        "query": "Say something about Ecological Resilience Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生态学理论",
+        "statement": "Trophic Cascade Hypothesis",
+        "query": "Say something about Trophic Cascade Hypothesis."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生态学理论",
+        "statement": "Mutualistic Coevolution Theory",
+        "query": "Say something about Mutualistic Coevolution Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生态学理论",
+        "statement": "Island Biogeography Model",
+        "query": "Say something about Island Biogeography Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "生态学理论",
+        "statement": "Functional Redundancy Hypothesis",
+        "query": "Say something about Functional Redundancy Hypothesis."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "计算机科学理论",
+        "statement": "Quantum Information Compression Theory",
+        "query": "Say something about Quantum Information Compression Theory."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "计算机科学理论",
+        "statement": "Neural Network Harmonization Algorithm",
+        "query": "Say something about Neural Network Harmonization Algorithm."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "计算机科学理论",
+        "statement": "Virtual Reality Interaction Model",
+        "query": "Say something about Virtual Reality Interaction Model."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "计算机科学理论",
+        "statement": "Evolutionary Optimization Paradigm",
+        "query": "Say something about Evolutionary Optimization Paradigm."
+    },
+    {
+        "Class": "科学理论",
+        "Sub-class": "计算机科学理论",
+        "statement": "Quantum Neural Computing Model",
+        "query": "Say something about Quantum Neural Computing Model."
+    }
+]
