@@ -6,7 +6,7 @@ The Taxonomy:
 ![](https://raw.githubusercontent.com/cuishiyao96/FFT/main/Figures/Taxonomy.png)
 
 
-If our paper is helpful for you, please the paper cite as 
+If our paper is helpful for you, please cite it as:
 ```
 citation
 ```
